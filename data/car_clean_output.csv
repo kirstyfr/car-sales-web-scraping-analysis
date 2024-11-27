@@ -1,0 +1,1001 @@
+Sales Title,Location/Distance (Miles),Price (£),Mileage,Year,Fuel Type,Transmissions,Colour,Number of Doors,Engine Size,Number of Reviews,Rating,Body Type,CO2 Emissions (g/km)
+Toyota Corolla 1.4 VVT-i T2 5dr,0.5,1595,111000,2002,Petrol,Manual,Grey,5,1.4 L,68,4.5,Hatchback,159
+Nissan Almera 1.8 E 5dr,0.5,1795,82000,2002,Petrol,Automatic,Silver,5,1.8 L,49,4,Hatchback,188
+Ford Fiesta 1.4 Ghia 5dr,0.5,1995,86000,2007,Petrol,Manual,Silver,5,1.4 L,373,4,Hatchback,147
+Toyota Yaris 1.3 VVT-i Blue 5dr,0.5,1995,95000,2005,Petrol,Manual,Blue,5,1.3 L,155,4.5,Hatchback,133
+Nissan Almera 1.8 SE 5dr,0.5,2095,110000,2005,Petrol,Automatic,Blue,5,1.8 L,49,4,Hatchback,187
+Toyota Yaris 1.3 VVT-i 16v CDX 5dr,0.5,2195,114000,2001,Petrol,Manual,Green,5,1.3 L,155,4.5,Hatchback,160
+Honda Civic 1.6 i-VTEC S 5dr,0.5,2295,92000,2003,Petrol,Automatic,Silver,5,1.6 L,184,4.5,Hatchback,169
+Honda Civic 1.6 i-VTEC SE Executive 5dr,0.5,2395,82000,2003,Petrol,Automatic,Red,5,1.6 L,184,4.5,Hatchback,172
+Toyota Corolla 1.4 VVT-i Colour Collection 5dr,0.5,2495,103000,2005,Petrol,Manual,Silver,5,1.4 L,68,4.5,Hatchback,159
+Volkswagen Touran 1.6 S 5dr (5 Seats),0.5,2495,89000,2006,Petrol,Manual,Silver,5,1.6 L,30,4,Mpv,194
+Nissan Note 1.6 16v SE 5dr,0.5,3195,99678,2007,Petrol,Automatic,Blue,5,1.6 L,78,4,Hatchback,166
+BMW 3 SERIES 2.0 318i SE Touring Euro 4 5dr,0.5,3495,113000,2007,Petrol,Manual,Silver,5,2.0 L,50,4,Estate,182
+Nissan Note 1.6 16V Tekna Auto Euro 4 5dr,0.5,3595,91000,2009,Petrol,Automatic,Grey,5,1.6 L,78,4,Hatchback,159
+Toyota Corolla Verso 1.6 VVT-i T2 5dr,0.5,3695,95250,2009,Petrol,Manual,N/a,5,1.6 L,11,4.5,Mpv,178
+Ford Focus 1.6 Style 5dr,0.5,3995,55000,2007,Petrol,Automatic,Silver,5,1.6 L,620,4,Estate,184
+Audi A3 1.6 Sportback Euro 4 5dr,0.5,3995,99000,2009,Petrol,Manual,Silver,5,1.6 L,76,4.5,Hatchback,164
+Vauxhall Astra 1.6 16V Exclusiv Sports Tourer Auto Euro 5 5dr,0.5,4195,69000,2011,Petrol,Automatic,Grey,5,1.6 L,368,4,Estate,169
+Toyota Auris 1.6 V-Matic Icon Euro 5 5dr,0.5,6295,82503,2014,Petrol,Manual,Grey,5,1.6 L,63,4.5,Hatchback,138
+Toyota Auris 1.8 VVT-h T Spirit CVT Euro 5 (s/s) 5dr,0.5,6295,115000,2010,Hybrid,Automatic,Silver,5,1.8 L,63,4.5,Hatchback,93
+Volkswagen Golf 1.4 TSI S DSG Euro 5 5dr,0.5,6695,57000,2009,Petrol,Automatic,Grey,5,1.4 L,157,4.5,Hatchback,138
+Ford Mondeo 2.0 TDCi Titanium Powershift Euro 6 (s/s) 5dr,0.5,7995,131000,2017,Diesel,Automatic,Black,5,2.0 L,295,4.5,Hatchback,124
+Audi S3 2.0 TFSI S Tronic quattro 5dr,0.5,8495,104000,2009,Petrol,Automatic,Black,5,2.0 L,3,4.5,Hatchback,195
+Volkswagen Polo 1.2 TSI BlueMotion Tech SE DSG Euro 6 (s/s) 5dr,0.5,9295,70505,2015,Petrol,Automatic,Black,5,1.2 L,151,4,Hatchback,109
+Mercedes CLA 4.0 E63 V8 BiTurbo AMG S Edition 1 SpdS MCT 4MATIC+ Euro 6 (s/s),0.5,79995,32000,2017,Petrol,Automatic,Black,4,4.0 L,1,5,Saloon,207
+BMW 4 SERIES M4,1,33990,29000,2017,Petrol,Semi auto,White,2,3.0 L,2,4.5,Coupe,194
+Land Rover Range Rover Sport 3.0 SDV6 HSE,1,55990,9800,2019,Diesel,Automatic,Green,5,3.0 L,16,4.5,Estate,198
+Rolls-Royce Ghost V12 SWB,1,79990,59000,2012,Petrol,Automatic,Silver,4,6.6 L,1,4,Saloon,317
+Bentley Bentayga W12,1,82990,46000,2016,Petrol,Automatic,White,5,6.0 L,1,4.5,Estate,296
+Land Rover Range Rover SE,1,119990,8500,2022,Diesel,Automatic,Black,5,3.0 L,36,4,Suv,202
+Dacia Sandero 1L Ambiance SCe,2,7549,22414,2018,Petrol,Manual,White,5,1.0 L,15,4,Hatchback,117
+Vauxhall Viva 1L SE i,2,7599,9664,2016,Petrol,Manual,Red,5,1.0 L,3,4.5,Hatchback,104
+Hyundai i10 1.2L SE,2,7699,40699,2016,Petrol,Manual,Blue,5,1.2 L,58,4,Hatchback,114
+Kia Picanto 1L SR7,2,7699,14495,2015,Petrol,Manual,White,3,1.0 L,61,4,Hatchback,105
+Vauxhall Corsa 1.4L Energy ecoFLEX i,2,7849,54681,2016,Petrol,Manual,Grey,3,1.4 L,268,4,Hatchback,118
+DS DS 3 1.6L DStyle Nav BlueHDi,2,7949,54023,2015,Diesel,Manual,Red,3,1.6 L,1,4.5,Hatchback,87
+Toyota AYGO 1L x-play VVT-i,2,7999,56845,2017,Petrol,Manual,Red,5,1.0 L,41,4,Hatchback,95
+Smart forfour 1L Prime,2,8099,34721,2016,Petrol,Manual,Blue,5,1.0 L,3,4,Hatchback,97
+Dacia Sandero 1L Ambiance SCe,2,8149,20488,2017,Petrol,Manual,Grey,5,1.0 L,15,4,Hatchback,117
+Dacia Sandero 1L Ambiance SCe,2,8199,24080,2018,Petrol,Manual,Blue,5,1.0 L,15,4,Hatchback,117
+Toyota AYGO 1L x-play VVT-i,2,8199,24621,2016,Petrol,Manual,Red,5,1.0 L,41,4,Hatchback,95
+Fiat 500 1.2L S,2,8199,44135,2017,Petrol,Manual,Red,3,1.2 L,44,4.5,Hatchback,110
+Vauxhall ADAM 1.2L ENERGISED ecoFLEX i,2,8199,34930,2016,Petrol,Manual,Blue,3,1.2 L,3,4.5,Hatchback,125
+Fiat 500 1.2L S,2,8299,24132,2017,Petrol,Manual,Black,3,1.2 L,44,4.5,Hatchback,110
+Renault Zoe Dynamique Nav,2,8349,44917,2015,Electric,Automatic,White,5,N/A,0,N/A,Hatchback,0
+Renault Clio 1.5L Dynamique S Nav dCi,2,8449,60059,2017,Diesel,Manual,White,5,1.5 L,115,4,Hatchback,85
+Peugeot 208 1.2L Active Design PureTech,2,8549,42029,2016,Petrol,Manual,Blue,3,1.2 L,24,4.5,Hatchback,104
+Fiat 500X 1.6L Pop Star MultiJetII,2,8549,32474,2015,Diesel,Manual,Red,5,1.6 L,44,4.5,Suv,109
+Nissan Leaf Visia,2,8599,22148,2016,Electric,Automatic,White,5,N/A,7,4.5,Hatchback,0
+Ford EcoSport 1L Zetec EcoBoost T,2,8699,26814,2016,Petrol,Manual,Yellow,5,1.0 L,3,4.5,Suv,125
+Ssangyong Tivoli 1.6L ELX e-XDi,2,8749,68569,2016,Diesel,Manual,Black,5,1.6 L,0,N/A,Suv,113
+Dacia Sandero Stepway 1.5L Comfort Blue dCi,2,8799,74948,2019,Petrol,Manual,Black,5,1.5 L,15,4,Hatchback,103
+Ford Fiesta 1L Titanium EcoBoost T,2,8949,62733,2017,Petrol,Manual,Black,5,1.0 L,373,4,Hatchback,99
+Seat Ibiza 1L Vista,2,8999,28487,2015,Petrol,Manual,Blue,3,1.0 L,47,4,Hatchback,118
+Vauxhall Insignia 2L SRi Nav CDTi,2,8999,64152,2016,Diesel,Manual,Black,5,2.0 L,96,4.5,Hatchback,118
+Vauxhall Insignia 1.4L SRi i Turbo,2,9049,42823,2015,Petrol,Manual,Silver,5,1.4 L,96,4.5,Hatchback,129
+Nissan Leaf Tekna,2,9049,46520,2015,Electric,Automatic,White,5,N/A,7,4.5,Hatchback,0
+Vauxhall Corsa 1.4L SRi ecoTEC i,2,9099,38492,2018,Petrol,Manual,Red,5,1.4 L,268,4,Hatchback,118
+Seat Toledo 1L XCELLENCE TSI,2,9149,60278,2017,Petrol,Manual,Silver,5,1.0 L,3,4,Hatchback,106
+Fiat 500 1.2L Lounge,2,9149,36851,2018,Petrol,Manual,Red,3,1.2 L,44,4.5,Hatchback,110
+Peugeot 208 1.2L Tech Edition PureTech,2,9149,64001,2019,Petrol,Manual,Silver,5,1.2 L,24,4.5,Hatchback,110
+Jeep Renegade 1.6L Limited MultiJetII,2,9199,62917,2016,Diesel,Manual,Red,5,1.6 L,0,N/A,Suv,115
+Toyota AYGO 1L x-play VVT-i,2,9249,40862,2018,Petrol,Manual,Red,5,1.0 L,41,4,Hatchback,93
+Skoda Fabia 1.2L SE TSI,2,9249,42538,2016,Petrol,Manual,Blue,5,1.2 L,153,4,Hatchback,107
+Vauxhall Corsa 1.4L Energy ecoTEC i,2,9299,32860,2018,Petrol,Manual,Black,3,1.4 L,268,4,Hatchback,130
+Peugeot 2008 1.6L Allure BlueHDi,2,9299,60818,2016,Diesel,Manual,Red,5,1.6 L,14,4.5,Suv,97
+Renault Captur 0.9L Dynamique Nav TCe ENERGY,2,9349,56941,2016,Petrol,Manual,Black,5,0.9 L,9,4.5,Suv,114
+Nissan Micra 1.5L Acenta dCi,2,9349,20590,2017,Diesel,Manual,Silver,5,1.5 L,114,4,Hatchback,85
+Vauxhall Corsa 1.4L Energy ecoFLEX i,2,9399,14198,2017,Petrol,Manual,Red,3,1.4 L,268,4,Hatchback,118
+Ford Fiesta 1L Zetec EcoBoost T,2,9399,40747,2016,Petrol,Manual,Black,5,1.0 L,373,4,Hatchback,99
+Hyundai i10 1L SE,2,9399,12943,2018,Petrol,Manual,Blue,5,1.0 L,58,4,Hatchback,117
+Ford Fiesta 1.2L Zetec,2,9399,10682,2016,Petrol,Manual,Silver,3,1.2 L,373,4,Hatchback,122
+Fiat 500 1.2L Lounge,2,9449,16473,2019,Petrol,Manual,Red,3,1.2 L,44,4.5,Hatchback,114
+Vauxhall ADAM 1.2L ENERGISED ecoFLEX i,2,9449,32647,2017,Petrol,Manual,White,3,1.2 L,3,4.5,Hatchback,125
+Fiat 500 1.2L S,2,9449,32168,2019,Petrol,Manual,Grey,3,1.2 L,44,4.5,Hatchback,122
+Kia Rio 1.2L SR7,2,9499,22345,2016,Petrol,Manual,White,3,1.2 L,44,4,Hatchback,115
+Fiat 500 1.2L Collezione Fall,2,9499,32998,2018,Petrol,Manual,Grey,3,1.2 L,44,4.5,Hatchback,110
+Vauxhall Astra 1.6L Tech Line ecoFLEX CDTi,2,9499,50523,2017,Diesel,Manual,Grey,5,1.6 L,368,4,Hatchback,88
+Ford EcoSport 1L Titanium EcoBoost T,2,9499,34814,2016,Petrol,Manual,Yellow,5,1.0 L,3,4.5,Suv,125
+Fiat 500 1.2L S,2,9499,22321,2017,Petrol,Manual,Grey,3,1.2 L,44,4.5,Hatchback,110
+Renault Clio 1.5L Dynamique S Nav dCi,2,9549,44621,2016,Diesel,Manual,White,5,1.5 L,115,4,Hatchback,85
+Nissan Leaf Acenta,2,9549,34428,2016,Electric,Automatic,Silver,5,N/A,7,4.5,Hatchback,0
+Toyota AYGO 1L x-play VVT-i,2,9599,16735,2018,Petrol,Manual,White,5,1.0 L,41,4,Hatchback,95
+Vauxhall Mokka X 1.6L Active i,2,9599,44208,2016,Petrol,Manual,Blue,5,1.6 L,32,4.5,Suv,155
+Peugeot 208 1.2L Tech Edition PureTech,2,9599,54652,2019,Petrol,Manual,Purple,5,1.2 L,24,4.5,Hatchback,110
+Vauxhall Astra 1.4L SRi i,2,9649,48039,2016,Petrol,Manual,Silver,5,1.4 L,368,4,Hatchback,128
+Fiat 500 1.2L Lounge,2,9649,10632,2018,Petrol,Manual,Grey,3,1.2 L,44,4.5,Hatchback,110
+Vauxhall Corsa 1.4L Energy ecoTEC i,2,9699,26745,2018,Petrol,Manual,Blue,3,1.4 L,268,4,Hatchback,131
+Fiat 500 1.2L Lounge,2,9699,44173,2018,Petrol,Manual,Green,3,1.2 L,44,4.5,Hatchback,116
+Vauxhall Corsa 1.4L Griffin ecoTEC i,2,9699,24987,2019,Petrol,Manual,Silver,3,1.4 L,268,4,Hatchback,128
+Smart fortwo 1L Prime,2,9749,38489,2016,Petrol,Automatic,White,2,1.0 L,26,4.5,Coupe,94
+Ford Fiesta 1L ST-Line EcoBoost T,2,9749,42108,2016,Petrol,Manual,Red,3,1.0 L,373,4,Hatchback,104
+Hyundai i10 1L Play,2,9799,24379,2019,Petrol,Manual,Grey,5,1.0 L,58,4,Hatchback,117
+Renault Clio 0.9L Dynamique S Nav TCe,2,9849,50798,2018,Petrol,Manual,Red,5,0.9 L,115,4,Hatchback,105
+Hyundai i20 1.4L SE,2,9849,20116,2016,Petrol,Manual,Grey,5,1.4 L,54,4.5,Hatchback,122
+Peugeot 2008 1.6L Allure BlueHDi,2,9849,46179,2016,Diesel,Manual,Black,5,1.6 L,14,4.5,Suv,96
+Renault Clio 0.9L Dynamique S Nav TCe,2,9949,46340,2018,Petrol,Manual,Silver,5,0.9 L,115,4,Hatchback,105
+Vauxhall Astra 1.4L SRi i Turbo,2,9999,42255,2017,Petrol,Manual,Red,5,1.4 L,368,4,Hatchback,128
+Fiat 500 1.2L Lounge,2,9999,14659,2019,Petrol,Manual,Black,3,1.2 L,44,4.5,Hatchback,108
+Fiat 500 1.2L Lounge,2,10099,28492,2018,Petrol,Manual,Red,3,1.2 L,44,4.5,Hatchback,116
+Skoda Fabia 1.2L Colour Edition TSI,2,10099,28575,2016,Petrol,Manual,Blue,5,1.2 L,153,4,Hatchback,107
+Renault Captur 0.9L Dynamique S Nav TCe ENERGY,2,10099,26862,2016,Petrol,Manual,Black,5,0.9 L,9,4.5,Suv,114
+Vauxhall Astra 1.6L Design ecoFLEX CDTi,2,10149,46583,2016,Diesel,Manual,Silver,5,1.6 L,368,4,Estate,89
+Renault Captur 0.9L Dynamique S Nav TCe ENERGY,2,10199,52177,2018,Petrol,Manual,Brown,5,0.9 L,9,4.5,Suv,114
+Vauxhall Zafira Tourer 1.4L SRi i Turbo,2,10199,46968,2015,Petrol,Manual,Blue,5,1.4 L,160,4,Mpv,158
+Volkswagen up! 1L Move up!,2,10249,18568,2018,Petrol,Manual,White,3,1.0 L,22,4,Hatchback,101
+Ford Fiesta 1L Titanium EcoBoost T,2,10249,40835,2016,Petrol,Manual,Grey,5,1.0 L,373,4,Hatchback,99
+Nissan Note 1.2L Black Edition,2,10249,22183,2017,Petrol,Manual,White,5,1.2 L,78,4,Hatchback,109
+Kia Picanto 1L GT-Line T-GDi,2,10249,26992,2019,Petrol,Manual,White,5,1.0 L,61,4,Hatchback,117
+Nissan Juke 1.5L Tekna dCi,2,10299,58155,2017,Diesel,Manual,Black,5,1.5 L,31,4,Suv,104
+Skoda Fabia 1.2L SE TSI,2,10299,30162,2017,Petrol,Manual,Grey,5,1.2 L,153,4,Hatchback,107
+Vauxhall Corsa 1.4L SE ecoFLEX i,2,10349,38626,2017,Petrol,Manual,Black,5,1.4 L,268,4,Hatchback,118
+Fiat 500 1.2L Lounge,2,10349,9296,2017,Petrol,Manual,Orange,3,1.2 L,44,4.5,Hatchback,110
+Ford EcoSport 1.5L Zetec,2,10349,48608,2017,Petrol,Manual,Yellow,5,1.5 L,3,4.5,Suv,149
+Peugeot 108 1L Allure,2,10349,16738,2021,Petrol,Manual,Red,5,1.0 L,1,4,Hatchback,111
+Vauxhall Corsa 1.4L SRi VX Line ecoFLEX i,2,10349,14105,2017,Petrol,Manual,Grey,5,1.4 L,268,4,Hatchback,120
+Vauxhall Corsa 1.4L Energy ecoTEC i,2,10349,12382,2019,Petrol,Manual,White,3,1.4 L,268,4,Hatchback,128
+Nissan Juke 1.5L Tekna dCi,2,10349,44234,2017,Diesel,Manual,Red,5,1.5 L,31,4,Suv,104
+Hyundai i20 1.2L Sport,2,10399,14823,2017,Petrol,Manual,Blue,3,1.2 L,54,4.5,Coupe,119
+Volkswagen up! 1L High up!,2,10399,46205,2017,Petrol,Manual,Black,5,1.0 L,22,4,Hatchback,101
+Toyota AYGO 1L x-press VVT-i,2,10399,16444,2017,Petrol,Manual,White,5,1.0 L,41,4,Hatchback,95
+Dacia Sandero Stepway 0.9L Comfort TCe,2,10399,22210,2018,Petrol,Manual,Blue,5,0.9 L,15,4,Hatchback,125
+Kia Picanto 1.2L 2,2,10399,22274,2017,Petrol,Automatic,White,5,1.2 L,61,4,Hatchback,124
+Ford Fiesta 1L Zetec EcoBoost T,2,10449,36455,2016,Petrol,Manual,Silver,5,1.0 L,373,4,Hatchback,99
+Nissan Micra 0.9L Acenta IG-T,2,10449,10074,2018,Petrol,Manual,White,5,0.9 L,114,4,Hatchback,118
+Nissan Leaf Tekna,2,10449,38513,2016,Electric,Automatic,Red,5,N/A,7,4.5,Hatchback,0
+Toyota Yaris 1.3L Icon Dual VVT-i,2,10499,7214,2015,Petrol,Manual,Blue,5,1.3 L,155,4.5,Hatchback,114
+Vauxhall ADAM 1.2L ENERGISED i,2,10499,10414,2019,Petrol,Manual,Red,3,1.2 L,3,4.5,Hatchback,128
+Hyundai i10 1L GO! SE,2,10549,28280,2018,Petrol,Manual,Grey,5,1.0 L,58,4,Hatchback,108
+Dacia Sandero Stepway 0.9L Ambiance TCe,2,10549,8874,2018,Petrol,Manual,Blue,5,0.9 L,15,4,Hatchback,115
+Renault Captur 1.5L Dynamique Nav dCi ENERGY,2,10549,32555,2017,Diesel,Manual,Black,5,1.5 L,9,4.5,Suv,98
+Fiat 500X 1.4L Lounge MultiAir,2,10549,52612,2016,Petrol,Manual,Black,5,1.4 L,44,4.5,Suv,139
+Peugeot 308 1.5L Allure Premium BlueHDi,2,10549,74579,2020,Diesel,Manual,Silver,5,1.5 L,51,4,Hatchback,121
+Volkswagen Polo 1L Match Edition BlueMotion Tech,2,10549,40593,2017,Petrol,Manual,Black,5,1.0 L,151,4,Hatchback,108
+Ford B-Max 1.6L Zetec,2,10549,28273,2015,Petrol,Automatic,Blue,5,1.6 L,18,4.5,Mpv,149
+Renault Captur 1.2L Dynamique S Nav TCe ENERGY,2,10549,34463,2017,Petrol,Manual,Silver,5,1.2 L,9,4.5,Suv,125
+Ford Fiesta 1.2L Zetec,2,10549,14982,2017,Petrol,Manual,Green,5,1.2 L,373,4,Hatchback,122
+Fiat Tipo 1.6L Lounge MultiJetII,2,10599,36152,2017,Diesel,Manual,Grey,5,1.6 L,1,4.5,Hatchback,98
+Ford Fiesta 1.1L Zetec Ti-VCT,2,10599,54850,2018,Petrol,Manual,Grey,5,1.1 L,373,4,Hatchback,114
+Vauxhall Astra 1.4L SRi i Turbo,2,10599,40028,2017,Petrol,Manual,Grey,5,1.4 L,368,4,Hatchback,128
+Hyundai i20 1.2L SE,2,10599,38455,2017,Petrol,Manual,White,5,1.2 L,54,4.5,Hatchback,112
+Ssangyong Korando 2.2L ELX D,2,10599,34420,2016,Diesel,Automatic,Silver,5,2.2 L,5,4,Suv,177
+Seat Leon 1.4L SE TSI,2,10649,48850,2015,Petrol,Manual,Red,5,1.4 L,46,4.5,Hatchback,120
+Vauxhall Corsa 1.4L Limited Edition ecoFLEX i,2,10649,8290,2017,Petrol,Manual,Grey,5,1.4 L,268,4,Hatchback,120
+Peugeot 308 1.2L Active PureTech,2,10649,20929,2017,Petrol,Manual,Blue,5,1.2 L,51,4,Hatchback,104
+Vauxhall Corsa 1.4L Griffin ecoTEC i,2,10699,20503,2019,Petrol,Manual,Red,5,1.4 L,268,4,Hatchback,128
+Kia Picanto 1.2L 2,2,10699,18581,2020,Petrol,Manual,Black,5,1.2 L,61,4,Hatchback,114
+Hyundai i10 1.2L Premium SE,2,10749,20487,2017,Petrol,Manual,Black,5,1.2 L,58,4,Hatchback,114
+Skoda Fabia 1L S TSI,2,10749,22932,2019,Petrol,Manual,Blue,5,1.0 L,153,4,Hatchback,103
+Kia Picanto 1.2L 2,2,10749,46756,2018,Petrol,Automatic,Blue,5,1.2 L,61,4,Hatchback,124
+Nissan Micra Tekna IG-T,2,10749,24365,2018,Petrol,Manual,Black,5,0.9 L,114,4,Hatchback,104
+Vauxhall Astra 1.6L Tech Line Nav ecoTEC BlueInjection CDTi,2,10799,54592,2018,Diesel,Manual,Silver,5,1.6 L,368,4,Hatchback,107
+Nissan Leaf Tekna,2,10799,40125,2017,Electric,Automatic,White,5,N/A,7,4.5,Hatchback,0
+Volkswagen Polo 1.2L Match BlueMotion Tech TSI,2,10849,50286,2016,Petrol,Manual,Black,5,1.2 L,151,4,Hatchback,107
+Citroen C1 1L Urban Ride VTi,2,10849,1442,2021,Petrol,Manual,Silver,5,1.0 L,44,4,Hatchback,109
+Vauxhall Corsa 1.4L Griffin ecoTEC i,2,10899,34204,2019,Petrol,Manual,Blue,3,1.4 L,268,4,Hatchback,128
+Ford Fiesta 1.1L Zetec Ti-VCT,2,10899,30815,2018,Petrol,Manual,White,3,1.1 L,373,4,Hatchback,101
+Smart fortwo 0.9L Prime T,2,10899,34918,2016,Petrol,Automatic,Silver,2,0.9 L,26,4.5,Convertible,97
+Ford Fiesta 1L ST-Line EcoBoost T,2,10899,58060,2018,Petrol,Manual,Red,3,1.0 L,373,4,Hatchback,97
+Ford Fiesta 1.1L Zetec Ti-VCT,2,10899,18563,2018,Petrol,Manual,Blue,5,1.1 L,373,4,Hatchback,101
+Fiat 500 1.2L Lounge,2,10899,18840,2019,Petrol,Manual,Black,3,1.2 L,44,4.5,Hatchback,114
+Skoda Rapid Spaceback 1.2L SE Sport TSI,2,10949,64504,2017,Petrol,Manual,Red,5,1.2 L,7,4.5,Hatchback,111
+Nissan Juke 1.5L Acenta dCi,2,10949,62554,2019,Diesel,Manual,Black,5,1.5 L,31,4,Suv,123
+Ford B-Max 1.4L Zetec,2,10949,26319,2016,Petrol,Manual,Silver,5,1.4 L,18,4.5,Mpv,139
+Citroen C3 Aircross 1.2L Feel PureTech,2,10949,34117,2018,Petrol,Manual,White,5,1.2 L,70,4,Suv,116
+Peugeot 308 SW 2L GT Line BlueHDi,2,10949,70174,2016,Diesel,Automatic,Blue,5,2.0 L,51,4,Estate,109
+Ford Focus 1L Titanium X EcoBoost T,2,10949,54747,2016,Petrol,Manual,Red,5,1.0 L,620,4,Hatchback,105
+Fiat 500 1L Lounge MHEV,2,10949,16363,2021,Petrol,Manual,Grey,3,1.0 L,44,4.5,Hatchback,119
+Peugeot 308 2L Allure BlueHDi,2,10999,42694,2015,Diesel,Automatic,Black,5,2.0 L,51,4,Hatchback,107
+Renault Clio 0.9L Iconic TCe,2,10999,30805,2019,Petrol,Manual,White,5,0.9 L,115,4,Hatchback,113
+Nissan Leaf Acenta,2,10999,24842,2017,Electric,Automatic,White,5,N/A,7,4.5,Hatchback,0
+Fiat 500 1L Lounge MHEV,2,10999,12402,2021,Petrol,Manual,Black,3,1.0 L,44,4.5,Hatchback,115
+Ford Fiesta 1L Active Edition EcoBoost MHEV T,2,10999,72776,2020,Petrol,Manual,Silver,5,1.0 L,373,4,Hatchback,120
+Hyundai i20 1.2L SE,2,11049,24498,2017,Petrol,Manual,White,5,1.2 L,54,4.5,Hatchback,112
+Fiat 500 1L Lounge MHEV,2,11049,12189,2021,Petrol,Manual,Grey,3,1.0 L,44,4.5,Hatchback,115
+Citroen C1 1L Shine VTi,2,11049,3251,2021,Petrol,Manual,White,5,1.0 L,44,4,Hatchback,110
+Fiat 500 1L Lounge MHEV,2,11049,16083,2021,Petrol,Manual,Grey,3,1.0 L,44,4.5,Hatchback,119
+Peugeot 2008 1.2L Active PureTech,2,11099,6026,2016,Petrol,Manual,Grey,5,1.2 L,14,4.5,Suv,114
+Vauxhall Mokka X 1.4L Active ecoTEC i Turbo,2,11099,48000,2018,Petrol,Manual,Silver,5,1.4 L,32,4.5,Suv,150
+Nissan Juke 1.2L Tekna Pulse DIG-T,2,11099,46093,2017,Petrol,Manual,Black,5,1.2 L,31,4,Suv,130
+Peugeot 108 1L Allure,2,11149,6614,2020,Petrol,Manual,Blue,5,1.0 L,1,4,Hatchback,85
+Peugeot 2008 1.2L Allure PureTech,2,11149,52436,2017,Petrol,Manual,Green,5,1.2 L,14,4.5,Suv,114
+Citroen C3 1.2L Feel Nav Edition PureTech,2,11149,48980,2019,Petrol,Manual,Black,5,1.2 L,70,4,Hatchback,109
+Nissan Juke 1.2L Envy DIG-T,2,11149,42401,2018,Petrol,Manual,White,5,1.2 L,31,4,Suv,130
+DS DS 5 2L Elegance BlueHDi,2,11149,48619,2016,Diesel,Manual,Purple,5,2.0 L,1,4.5,Hatchback,105
+Nissan X-Trail 1.6L Acenta dCi,2,11149,84308,2018,Diesel,Manual,Black,5,1.6 L,42,4.5,Suv,129
+Renault Captur 0.9L Dynamique S Nav TCe ENERGY,2,11149,34739,2017,Petrol,Manual,Silver,5,0.9 L,9,4.5,Suv,114
+Peugeot 208 1.2L Tech Edition PureTech,2,11199,24719,2019,Petrol,Manual,Grey,4,1.2 L,24,4.5,Hatchback,110
+Peugeot 208 1.5L Tech Edition BlueHDi,2,11199,26407,2019,Diesel,Manual,Grey,5,1.5 L,24,4.5,Hatchback,90
+Vauxhall Corsa SE ecoTEC i,2,11199,16477,2016,Petrol,Manual,Red,5,1.4 L,268,4,Hatchback,118
+Nissan Qashqai 1.2L n-tec+ DIG-T,2,11199,50617,2015,Petrol,Manual,Blue,5,1.2 L,100,4.5,Suv,133
+Citroen C3 1.2L Feel Nav Edition PureTech,2,11249,56864,2019,Petrol,Manual,Grey,5,1.2 L,70,4,Hatchback,109
+Nissan Juke 1.5L Acenta dCi,2,11249,28679,2018,Diesel,Manual,Red,5,1.5 L,31,4,Suv,104
+Suzuki Ignis 1.2L SZ3 Dualjet MHEV,2,11249,5424,2020,Petrol,Manual,Orange,5,1.2 L,9,4,Hatchback,117
+Renault Zoe Dynamique Nav R110,2,11249,72753,2019,Electric,Automatic,White,5,N/A,0,N/A,Hatchback,0
+Peugeot 308 SW 1.6L Allure BlueHDi,2,11249,56692,2016,Diesel,Automatic,White,5,1.6 L,51,4,Estate,102
+Fiat 500 1L Lounge MHEV,2,11249,8692,2021,Petrol,Manual,Red,3,1.0 L,44,4.5,Hatchback,119
+Fiat 500 1L Lounge MHEV,2,11249,5000,2021,Petrol,Manual,Grey,3,1.0 L,44,4.5,Hatchback,120
+Ford Fiesta 1L ST-Line EcoBoost T,2,11249,26838,2017,Petrol,Manual,Black,3,1.0 L,373,4,Hatchback,99
+Fiat 500 1L Lounge MHEV,2,11249,9257,2021,Petrol,Manual,Black,3,1.0 L,44,4.5,Hatchback,115
+Peugeot 208 1.2L Roland Garros PureTech,2,11299,36648,2017,Petrol,Manual,Black,5,1.2 L,24,4.5,Hatchback,99
+Vauxhall Mokka X 1.4L Active i Turbo,2,11299,9275,2017,Petrol,Manual,Orange,5,1.4 L,32,4.5,Suv,140
+Fiat 500 1L Lounge MHEV,2,11349,9084,2021,Petrol,Manual,Red,3,1.0 L,44,4.5,Hatchback,115
+Nissan Juke 1.2L Tekna DIG-T,2,11399,38237,2016,Petrol,Manual,Red,5,1.2 L,31,4,Suv,128
+Ford Fiesta 1L Titanium EcoBoost T,2,11399,80212,2019,Petrol,Manual,Blue,5,1.0 L,373,4,Hatchback,106
+Citroen C1 1L Urban Ride VTi,2,11399,2274,2021,Petrol,Manual,Silver,5,1.0 L,44,4,Hatchback,109
+Ford Grand C-Max 1.5L Zetec TDCi,2,11399,52511,2016,Diesel,Automatic,Black,5,1.5 L,77,4.5,Mpv,119
+Renault Captur 0.9L Iconic TCe ENERGY,2,11399,44220,2019,Petrol,Manual,Grey,5,0.9 L,9,4.5,Suv,122
+Vauxhall Mokka X 1.4L Design Nav ecoTEC i Turbo,2,11399,62694,2019,Petrol,Manual,Silver,5,1.4 L,32,4.5,Suv,147
+Peugeot 108 1L Allure,2,11399,6659,2021,Petrol,Manual,Blue,5,1.0 L,1,4,Hatchback,111
+Peugeot 308 1.5L Allure Premium BlueHDi,2,11399,62804,2021,Petrol,Manual,Grey,5,1.5 L,51,4,Hatchback,121
+Citroen C1 1L Shine VTi,2,11399,1819,2021,Petrol,Manual,Brown,5,1.0 L,44,4,Hatchback,110
+Vauxhall Mokka X 1.4L Active ecoTEC i Turbo,2,11399,32650,2018,Petrol,Manual,Black,5,1.4 L,32,4.5,Suv,140
+Volkswagen Golf 1.6L SE Nav TDI,2,11399,86006,2018,Diesel,Manual,Silver,5,1.6 L,100,4.5,Hatchback,108
+Ford Focus 1L Zetec Edition EcoBoost T,2,11399,24281,2017,Petrol,Manual,Silver,5,1.0 L,620,4,Hatchback,108
+Fiat 500 1L Lounge MHEV,2,11399,8438,2021,Petrol,Manual,Red,3,1.0 L,44,4.5,Hatchback,115
+Nissan Note 1.5L Black Edition dCi,2,11449,16817,2017,Diesel,Manual,Black,5,1.5 L,78,4,Hatchback,93
+Ford Fiesta 1L Zetec EcoBoost T,2,11449,28125,2019,Petrol,Manual,White,5,1.0 L,373,4,Hatchback,110
+Fiat 500 1L Lounge MHEV,2,11449,6272,2021,Hybrid,Manual,Black,3,1.0 L,44,4.5,Hatchback,115
+Fiat 500 1L Lounge MHEV,2,11449,4880,2021,Petrol,Manual,Grey,3,1.0 L,44,4.5,Hatchback,115
+Ford Fiesta 1.1L Zetec Ti-VCT,2,11499,44720,2018,Petrol,Manual,Grey,5,1.1 L,373,4,Hatchback,101
+Renault Captur 0.9L Dynamique S Nav TCe ENERGY,2,11499,22881,2016,Petrol,Manual,White,5,0.9 L,9,4.5,Suv,114
+Mini Hatch 1.5L Cooper D,2,11499,28574,2017,Diesel,Manual,Black,3,1.5 L,0,N/A,Hatchback,95
+Ford Fiesta 1L Titanium X EcoBoost T,2,11499,16510,2015,Petrol,Manual,Blue,5,1.0 L,373,4,Hatchback,99
+Nissan Note 1.2L Acenta Premium DIG-S,2,11499,10743,2016,Petrol,Automatic,Grey,5,1.2 L,78,4,Hatchback,119
+Peugeot 3008 1.6L Allure BlueHDi,2,11549,32853,2016,Diesel,Manual,White,5,1.6 L,28,4.5,Suv,108
+Fiat 500 1L Lounge MHEV,2,11549,10006,2021,Petrol,Manual,Grey,3,1.0 L,44,4.5,Hatchback,119
+Fiat 500 1L Lounge MHEV,2,11549,3650,2021,Petrol,Manual,Black,3,1.0 L,44,4.5,Hatchback,115
+Seat Ibiza 1L SE Design TSI,2,11549,36839,2018,Petrol,Manual,Grey,5,1.0 L,47,4,Hatchback,106
+Kia Picanto 1L GT-Line T-GDi,2,11549,24129,2019,Petrol,Manual,White,5,1.0 L,61,4,Hatchback,117
+Nissan Juke 1.2L Envy DIG-T,2,11549,34489,2018,Petrol,Manual,Grey,5,1.2 L,31,4,Suv,130
+Kia Sportage 1.7L 1 CRDi,2,11549,52227,2017,Diesel,Manual,Silver,5,1.7 L,45,4.5,Suv,119
+Renault Clio 0.9L GT Line TCe,2,11549,18624,2019,Petrol,Manual,Black,5,0.9 L,115,4,Hatchback,113
+Ford Fiesta 1L ST-Line EcoBoost T,2,11549,18807,2017,Petrol,Manual,Black,3,1.0 L,373,4,Hatchback,104
+Vauxhall Mokka X 1.4L Design Nav i Turbo,2,11549,34300,2016,Petrol,Manual,Brown,5,1.4 L,32,4.5,Suv,152
+Volkswagen Golf 2L Match Edition BlueMotion Tech TDI,2,11599,60319,2016,Diesel,Manual,Blue,5,2.0 L,100,4.5,Hatchback,106
+Renault Clio 0.9L Iconic TCe,2,11599,20421,2019,Petrol,Manual,Blue,5,0.9 L,115,4,Hatchback,113
+Hyundai i10 1.2L SE,2,11599,30573,2018,Petrol,Automatic,Blue,5,1.2 L,58,4,Hatchback,139
+Nissan Juke 1.2L Envy DIG-T,2,11599,36151,2018,Petrol,Manual,Grey,5,1.2 L,31,4,Suv,130
+Nissan X-Trail 1.6L Acenta dCi,2,11599,80628,2018,Diesel,Manual,Black,4,1.6 L,42,4.5,Suv,129
+Fiat Panda 1.2L Waze,2,11599,7405,2020,Petrol,Manual,Red,5,1.2 L,73,4.5,Hatchback,149
+Vauxhall Corsa 1.2L SE Nav,2,11649,48719,2020,Petrol,Manual,Grey,5,1.2 L,268,4,Hatchback,125
+Seat Arona 1.6L XCELLENCE Lux TDI,2,11649,84423,2018,Diesel,Manual,Gold,5,1.6 L,0,N/A,Suv,114
+Vauxhall Corsa 1.4L Excite ecoFLEX i,2,11649,3034,2015,Petrol,Automatic,White,5,1.4 L,268,4,Hatchback,139
+Peugeot 108 1L Collection,2,11649,10977,2021,Petrol,Manual,Black,5,1.0 L,1,4,Hatchback,111
+Fiat 500X 2L Cross Plus MultiJetII,2,11649,40847,2016,Diesel,Automatic,Red,5,2.0 L,44,4.5,Suv,144
+Jeep Renegade 1.6L Longitude E-TorQ,2,11649,48644,2018,Petrol,Manual,Red,5,1.6 L,0,N/A,Suv,141
+Fiat 500 1L Lounge MHEV,2,11649,7842,2021,Hybrid,Manual,Silver,3,1.0 L,44,4.5,Hatchback,115
+Renault Clio 0.9L Iconic TCe,2,11699,20535,2019,Petrol,Manual,Black,5,0.9 L,115,4,Hatchback,114
+Renault Captur 1.5L Dynamique Nav dCi ENERGY,2,11699,24218,2018,Diesel,Manual,Blue,5,1.5 L,9,4.5,Suv,95
+Nissan Juke 1.6L Tekna,2,11699,44509,2019,Petrol,Manual,Blue,5,1.6 L,31,4,Suv,162
+Ford Focus 1L Zetec Edition EcoBoost T,2,11699,28900,2018,Petrol,Manual,Blue,5,1.0 L,620,4,Hatchback,108
+Volkswagen up! 1L Move up!,2,11749,7478,2018,Petrol,Manual,Black,5,1.0 L,22,4,Hatchback,101
+Toyota AYGO 1L x-play VVT-i,2,11749,7005,2021,Petrol,Manual,Black,5,1.0 L,41,4,Hatchback,114
+Ford Fiesta 1.1L Trend Ti-VCT,2,11749,32147,2019,Petrol,Manual,White,5,1.1 L,373,4,Hatchback,114
+Vauxhall Corsa 1.4L SE Nav i,2,11799,4674,2019,Petrol,Manual,Grey,5,1.4 L,268,4,Hatchback,123
+Nissan Juke 1.2L N-Connecta DIG-T,2,11799,38661,2018,Petrol,Manual,Black,5,1.2 L,31,4,Suv,128
+Ford Fiesta 1L ST-Line EcoBoost T,2,11799,34397,2017,Petrol,Manual,Red,3,1.0 L,373,4,Hatchback,104
+Peugeot 2008 1.2L Allure PureTech,2,11799,32791,2017,Petrol,Manual,Grey,5,1.2 L,14,4.5,Suv,103
+Vauxhall Corsa 1.4L SRi VX Line Nav Black ecoTEC i,2,11849,30811,2019,Petrol,Manual,Blue,3,1.4 L,268,4,Hatchback,131
+Ford Focus 1L ST-Line EcoBoost T,2,11849,48848,2017,Petrol,Manual,Black,5,1.0 L,620,4,Hatchback,108
+Peugeot 208 1.2L Tech Edition PureTech,2,11849,18343,2018,Petrol,Manual,White,5,1.2 L,24,4.5,Hatchback,109
+Ford Fiesta 1L Titanium X EcoBoost T,2,11849,34159,2016,Petrol,Automatic,Red,5,1.0 L,373,4,Hatchback,114
+Renault Clio 0.9L Iconic TCe,2,11849,12380,2019,Petrol,Manual,Black,5,0.9 L,115,4,Hatchback,114
+Ford Focus 1.5L Titanium EcoBlue,2,11849,98705,2020,Diesel,Manual,Blue,5,1.5 L,620,4,Hatchback,93
+Nissan Note 1.2L Tekna DIG-S,2,11849,10672,2016,Petrol,Automatic,Silver,5,1.2 L,78,4,Hatchback,119
+Fiat 500 1L Lounge MHEV,2,11899,4444,2021,Petrol,Manual,Red,3,1.0 L,44,4.5,Hatchback,115
+MG MG3 1.5L Exclusive Nav VTi-TECH,2,11899,12407,2020,Petrol,Manual,Black,5,1.5 L,6,3.5,Hatchback,152
+Skoda Fabia 1L SE L TSI,2,11899,32043,2017,Petrol,Manual,Blue,5,1.0 L,153,4,Estate,103
+Hyundai i40 1.7L SE Nav Blue Drive CRDi,2,11899,46899,2017,Diesel,Manual,Silver,5,1.7 L,14,4.5,Estate,114
+Vauxhall Corsa 1.2L SE Premium,2,11899,28713,2021,Petrol,Manual,Blue,5,1.2 L,268,4,Hatchback,118
+Mini Hatch 1.5L Cooper,2,11949,46037,2016,Petrol,Manual,Black,3,1.5 L,0,N/A,Hatchback,105
+Jeep Renegade 2L Longitude MultiJetII,2,11949,46429,2016,Diesel,Manual,White,5,2.0 L,0,N/A,Suv,134
+Mini Hatch 1.2L One,2,11999,46890,2017,Petrol,Manual,White,5,1.2 L,0,N/A,Hatchback,112
+Volkswagen Polo 1L SE TSI,2,11999,40612,2018,Petrol,Manual,Orange,5,1.0 L,151,4,Hatchback,101
+Ford Fiesta 1.1L Zetec Ti-VCT,2,11999,9015,2019,Petrol,Manual,Red,3,1.1 L,373,4,Hatchback,114
+Vauxhall Mokka X 1.4L Griffin ecoTEC i Turbo,2,11999,58835,2019,Petrol,Manual,Black,5,1.4 L,32,4.5,Suv,150
+Nissan Micra 1L Tekna IG-T,2,11999,18303,2019,Petrol,Manual,Silver,5,1.0 L,114,4,Hatchback,104
+Vauxhall Astra 1L SRi ecoTEC i Turbo,2,11999,24632,2019,Petrol,Manual,Blue,5,1.0 L,368,4,Hatchback,110
+Ford Focus 1L Titanium EcoBoost T,2,11999,38991,2016,Petrol,Automatic,Grey,5,1.0 L,620,4,Hatchback,125
+Ford Mondeo 1.5L Zetec ECOnetic TDCi,2,11999,42673,2016,Diesel,Manual,Blue,5,1.5 L,295,4.5,Hatchback,94
+Mini Hatch 1.2L One,2,12049,36716,2016,Petrol,Manual,White,3,1.2 L,0,N/A,Hatchback,109
+Ford Fiesta 1L Active Edition EcoBoost MHEV T,2,12049,54687,2020,Petrol,Manual,Black,5,1.0 L,373,4,Hatchback,120
+Ford Focus 1L Zetec Edition EcoBoost T,2,12049,30232,2017,Petrol,Manual,Blue,5,1.0 L,620,4,Hatchback,108
+Ford Focus 1L Zetec Edition EcoBoost T,2,12049,34196,2018,Petrol,Manual,Grey,5,1.0 L,620,4,Hatchback,108
+Ford B-Max 1.6L Titanium,2,12049,4081,2016,Petrol,Automatic,Black,5,1.6 L,18,4.5,Mpv,149
+Fiat 500 1L Lounge MHEV,2,12099,18206,2021,Petrol,Manual,Black,3,1.0 L,44,4.5,Hatchback,115
+Ford Focus 1L ST-Line EcoBoost T,2,12099,40343,2017,Petrol,Manual,Blue,5,1.0 L,620,4,Hatchback,112
+Mini Hatch 1.5L Cooper,2,12149,40918,2017,Petrol,Manual,Grey,5,1.5 L,0,N/A,Hatchback,109
+Mini Hatch 1.5L Cooper D,2,12149,38281,2016,Diesel,Manual,Grey,5,1.5 L,0,N/A,Hatchback,97
+Ford Ka+ 1.2L Active Ti-VCT,2,12149,2832,2019,Petrol,Manual,Grey,5,1.2 L,89,4,Hatchback,129
+Toyota AYGO 1L x-press VVT-i,2,12149,12891,2017,Petrol,Automatic,Black,5,1.0 L,41,4,Hatchback,97
+Dacia Logan MCV Stepway 0.9L Comfort TCe,2,12199,32658,2019,Petrol,Manual,Grey,5,0.9 L,2,3.5,Estate,125
+Renault Clio 0.9L Iconic TCe,2,12199,22813,2019,Petrol,Manual,Red,5,0.9 L,115,4,Hatchback,114
+Mini Hatch 1.5L Cooper,2,12199,24101,2015,Petrol,Manual,Green,5,1.5 L,0,N/A,Hatchback,109
+Vauxhall Insignia 1.6L Tech Line Nav BlueInjection Turbo D,2,12199,42954,2018,Diesel,Manual,Grey,5,1.6 L,96,4.5,Hatchback,121
+Volkswagen Polo 1L SE TSI,2,12199,24461,2018,Petrol,Manual,Red,5,1.0 L,151,4,Hatchback,104
+Vauxhall Crossland X SE,2,12199,36941,2019,Petrol,Manual,Grey,5,1.2 L,0,N/A,Suv,117
+Smart fortwo 0.9L Prime Sport T,2,12249,12442,2017,Petrol,Automatic,Silver,2,0.9 L,26,4.5,Coupe,96
+Ford Focus 1L Titanium EcoBoost T,2,12249,24956,2017,Petrol,Manual,Red,5,1.0 L,620,4,Hatchback,108
+Audi A3 1.6L Sport TDI,2,12249,82678,2016,Diesel,Automatic,Red,5,1.6 L,76,4.5,Saloon,104
+Mazda Mazda3 1.5L SE SKYACTIV-G,2,12299,22352,2015,Petrol,Manual,Black,5,1.5 L,53,4,Hatchback,119
+Vauxhall Astra 1.4L SRi Nav i Turbo,2,12299,30755,2019,Petrol,Manual,Blue,5,1.4 L,368,4,Hatchback,136
+Nissan Juke 1.5L Tekna dCi,2,12299,40107,2017,Diesel,Manual,Blue,5,1.5 L,31,4,Suv,104
+Ford Fiesta 1L Titanium EcoBoost T,2,12299,74530,2019,Petrol,Manual,Silver,5,1.0 L,373,4,Hatchback,106
+Nissan Qashqai 1.2L n-tec+ DIG-T,2,12299,50315,2015,Petrol,Manual,Black,5,1.2 L,100,4.5,Suv,133
+Volkswagen Polo 1L Match BlueMotion Tech,2,12349,32235,2016,Petrol,Manual,White,5,1.0 L,151,4,Hatchback,108
+Peugeot 108 1L Allure,2,12349,4441,2021,Petrol,Manual,Blue,5,1.0 L,1,4,Hatchback,111
+Ford Fiesta 1.1L Trend Ti-VCT,2,12349,22003,2019,Petrol,Manual,Blue,5,1.1 L,373,4,Hatchback,114
+Audi A3 1L SE TFSI,2,12349,56584,2016,Petrol,Manual,Black,5,1.0 L,76,4.5,Hatchback,104
+Nissan Micra 1.2L Acenta,2,12399,7470,2016,Petrol,Automatic,White,5,1.2 L,114,4,Hatchback,125
+Dacia Sandero Stepway 0.9L Techroad TCe,2,12399,5203,2019,Petrol,Manual,Red,5,0.9 L,15,4,Hatchback,125
+BMW 3 Series 2L ED Plus 320d,2,12399,76724,2017,Diesel,Manual,Grey,5,2.0 L,126,4,Estate,107
+Vauxhall Astra 1.6L Elite CDTi,2,12399,20470,2016,Diesel,Automatic,Green,5,1.6 L,368,4,Estate,122
+Peugeot 308 1.5L Allure BlueHDi,2,12449,36385,2019,Diesel,Manual,Grey,5,1.5 L,51,4,Hatchback,96
+Kia Picanto 1L GT-Line T-GDi,2,12499,24451,2019,Petrol,Manual,White,5,1.0 L,61,4,Hatchback,117
+Volkswagen Polo 1.2L Match BlueMotion Tech TSI,2,12499,46555,2017,Petrol,Manual,Black,5,1.2 L,151,4,Hatchback,107
+Hyundai i10 1.2L SE,2,12499,14854,2017,Petrol,Automatic,Blue,5,1.2 L,58,4,Hatchback,139
+Mini Clubman 2L Cooper D,2,12499,40170,2016,Diesel,Manual,White,4,2.0 L,12,4.5,Estate,113
+Ford Fiesta 1L Zetec EcoBoost T,2,12549,32440,2018,Petrol,Manual,Black,5,1.0 L,373,4,Hatchback,97
+Vauxhall Corsa 1.2L SE Nav,2,12549,30474,2020,Petrol,Manual,Blue,5,1.2 L,268,4,Hatchback,121
+Hyundai KONA 1L S T-GDi,2,12549,30913,2018,Petrol,Manual,Orange,5,1.0 L,0,N/A,Suv,117
+MG MG3 1.5L Exclusive Nav VTi-TECH,2,12549,5442,2021,Petrol,Manual,White,5,1.5 L,6,3.5,Hatchback,147
+Renault Kadjar 1.2L Signature S Nav TCe,2,12549,34563,2016,Petrol,Manual,Red,5,1.2 L,1,5,Suv,130
+Volkswagen Polo 1L SE TSI,2,12549,34757,2018,Petrol,Manual,Orange,5,1.0 L,151,4,Hatchback,103
+Renault Megane 1.5L Iconic Blue dCi,2,12599,54658,2019,Diesel,Manual,Blue,5,1.5 L,119,4,Hatchback,104
+Kia Picanto 1L GT-Line T-GDi,2,12599,22446,2019,Petrol,Manual,White,5,1.0 L,61,4,Hatchback,117
+Ford Fiesta 1L Zetec EcoBoost T,2,12599,26542,2019,Petrol,Manual,Blue,5,1.0 L,373,4,Hatchback,110
+Vauxhall Insignia 1.6L Tech Line Nav ecoTEC Turbo D,2,12649,40144,2018,Diesel,Manual,Grey,5,1.6 L,96,4.5,Hatchback,116
+BMW 1 Series 1.5L Sport 116d,2,12649,26318,2016,Diesel,Manual,White,3,1.5 L,12,4.5,Hatchback,103
+Volkswagen Polo 1L SE TSI,2,12649,24665,2019,Petrol,Manual,Orange,5,1.0 L,151,4,Hatchback,104
+Volkswagen up! 1L Move up! Tech Edition,2,12699,12070,2019,Petrol,Manual,Silver,5,1.0 L,22,4,Hatchback,95
+Vauxhall Corsa 1.2L SRi Turbo,2,12699,40045,2021,Petrol,Manual,Red,5,1.2 L,268,4,Hatchback,119
+Vauxhall Mokka 1.4L Tech Line i Turbo,2,12699,20628,2016,Petrol,Automatic,Blue,5,1.4 L,32,4.5,Suv,149
+Nissan Micra 1L Acenta DIG-T,2,12699,3837,2020,Petrol,Manual,White,5,1.0 L,114,4,Hatchback,133
+Peugeot 208 1.6L GTi Prestige THP,2,12699,22130,2016,Petrol,Manual,Orange,3,1.6 L,24,4.5,Hatchback,125
+Audi A1 1.4L Sport TFSI,2,12699,24518,2016,Petrol,Manual,Black,3,1.4 L,33,4.5,Hatchback,115
+Peugeot 108 1L Allure,2,12749,4488,2021,Petrol,Manual,White,5,1.0 L,1,4,Hatchback,111
+Renault Captur 1.2L Signature Nav TCe ENERGY,2,12749,38858,2016,Petrol,Automatic,Red,5,1.2 L,9,4.5,Suv,127
+Peugeot 3008 1.6L Allure BlueHDi,2,12749,38930,2017,Diesel,Automatic,Grey,5,1.6 L,28,4.5,Suv,112
+Ford Fiesta 1L Zetec EcoBoost T,2,12749,10570,2017,Petrol,Manual,Red,5,1.0 L,373,4,Hatchback,97
+Vauxhall Crossland X 1.2L Elite Nav,2,12749,28405,2018,Petrol,Manual,Grey,5,1.2 L,0,N/A,Suv,116
+Ford Fiesta 1L ST-Line EcoBoost T,2,12799,42129,2018,Petrol,Manual,White,3,1.0 L,373,4,Hatchback,98
+Ford Focus 1.5L Zetec EcoBlue,2,12799,56697,2020,Diesel,Manual,Grey,5,1.5 L,620,4,Estate,97
+Skoda Fabia 1L SE L TSI,2,12849,48547,2018,Petrol,Manual,Black,5,1.0 L,153,4,Estate,103
+Fiat 500 1L Dolcevita MHEV,2,12849,3618,2022,Petrol,Manual,Red,3,1.0 L,44,4.5,Hatchback,106
+MG MG3 1.5L Exclusive Nav VTi-TECH,2,12849,7431,2022,Petrol,Manual,Blue,5,1.5 L,6,3.5,Hatchback,147
+Mazda Mazda2 1.5L SE-L Nav MHEV SKYACTIV-G,2,12849,18472,2020,Petrol,Manual,White,5,1.5 L,40,4,Hatchback,121
+Vauxhall Mokka X 1.4L Active ecoTEC i Turbo,2,12849,22931,2019,Petrol,Manual,White,5,1.4 L,32,4.5,Suv,150
+Renault Captur 1.3L Iconic TCe ENERGY,2,12849,22178,2019,Petrol,Manual,Blue,5,1.3 L,9,4.5,Suv,128
+Ford Fiesta 1L ST-Line EcoBoost T,2,12849,22071,2018,Petrol,Manual,Silver,3,1.0 L,373,4,Hatchback,108
+Ford Fiesta 1L ST-Line Edition EcoBoost T,2,12849,22835,2020,Petrol,Manual,Blue,4,1.0 L,373,4,Hatchback,118
+Ford Mondeo 1.5L Titanium Edition ECOnetic TDCi,2,12849,38174,2017,Diesel,Manual,Silver,5,1.5 L,295,4.5,Hatchback,94
+Citroen C3 1.2L Flair Nav Edition PureTech,2,12899,32456,2019,Petrol,Manual,Black,5,1.2 L,70,4,Hatchback,106
+BMW 3 Series 2L SE 316d,2,12899,58871,2016,Diesel,Manual,Black,4,2.0 L,13,4,Saloon,109
+Ford Kuga 2L Titanium Sport TDCi,2,12899,64256,2016,Diesel,Manual,Silver,5,2.0 L,31,4.5,Suv,122
+Ford Fiesta 1.1L Trend Ti-VCT,2,12899,3681,2020,Petrol,Manual,Blue,3,1.1 L,373,4,Hatchback,121
+BMW 3 Series 1.5L Sport 318i,2,12899,48212,2016,Petrol,Manual,White,4,1.5 L,50,4,Saloon,124
+Hyundai ix20 1.6L SE,2,12899,20521,2018,Petrol,Automatic,Grey,5,1.6 L,5,4.5,Hatchback,150
+Suzuki Swift 1.4L Sport Boosterjet,2,12899,22077,2018,Petrol,Manual,White,5,1.4 L,37,4,Hatchback,125
+Fiat 500 1L Dolcevita MHEV,2,12899,1655,2022,Petrol,Manual,White,3,1.0 L,44,4.5,Hatchback,106
+Citroen C4 Cactus 1.6L Flair BlueHDi,2,12949,24188,2016,Diesel,Automatic,Black,5,1.6 L,42,4,Hatchback,89
+Vauxhall Astra GTC 1.6L Limited Edition i Turbo,2,12949,14171,2015,Petrol,Manual,Red,3,1.6 L,2,4,Hatchback,149
+Volkswagen Golf 1.6L Match Edition BlueMotion Tech TDI,2,12949,30109,2016,Diesel,Manual,Grey,5,1.6 L,100,4.5,Hatchback,99
+Citroen Grand C4 Picasso 1.6L Exclusive BlueHDi,2,12949,44012,2016,Diesel,Manual,Blue,5,1.6 L,25,4,Mpv,106
+Citroen C3 1.2L Flair PureTech,2,12999,10091,2019,Petrol,Manual,Grey,5,1.2 L,70,4,Hatchback,99
+Mercedes-Benz A Class 2.1L Sport A200d,2,12999,54449,2016,Diesel,Manual,Red,5,2.1 L,47,4,Hatchback,111
+Smart fortwo Prime,2,12999,5484,2019,Electric,Automatic,Black,2,N/A,26,4.5,Coupe,0
+Mazda MX-5 1.5L Sport SKYACTIV-G,2,13049,40038,2015,Petrol,Manual,Red,2,1.5 L,62,4,Convertible,139
+Ford Fiesta 1L Active Edition EcoBoost MHEV T,2,13049,36658,2020,Petrol,Manual,Black,5,1.0 L,373,4,Hatchback,120
+Vauxhall Crossland X 1.2L Business Edition Nav Turbo,2,13049,36284,2020,Petrol,Manual,Grey,5,1.2 L,0,N/A,Suv,137
+Kia Soul EV,2,13099,50893,2018,Electric,Automatic,Blue,5,N/A,14,4.5,Suv,0
+Volkswagen Golf 1.4L Match Edition BlueMotion Tech TSI,2,13099,58275,2016,Petrol,Manual,Silver,5,1.4 L,157,4.5,Hatchback,120
+Vauxhall Corsa 1.2L SRi Premium Turbo,2,13099,22383,2020,Petrol,Manual,Blue,5,1.2 L,268,4,Hatchback,126
+Renault Kadjar 1.5L Dynamique Nav dCi,2,13099,62271,2017,Diesel,Automatic,White,5,1.5 L,1,5,Suv,99
+Ford Fiesta 1.5L Zetec TDCi,2,13149,16709,2019,Diesel,Manual,Silver,5,1.5 L,373,4,Hatchback,96
+Toyota AYGO 1L x-press VVT-i,2,13149,18574,2018,Petrol,Automatic,Black,5,1.0 L,41,4,Hatchback,97
+Volkswagen Polo 1L SE EVO,2,13149,12766,2019,Petrol,Manual,Red,5,1.0 L,151,4,Hatchback,108
+Vauxhall Corsa 1.2L SE Nav,2,13149,10314,2020,Petrol,Manual,Black,5,1.2 L,268,4,Hatchback,121
+Vauxhall Crossland X 1.2L Griffin Turbo,2,13149,38628,2020,Petrol,Manual,Grey,5,1.2 L,0,N/A,Suv,133
+Ford C-Max 1L Titanium EcoBoost T,2,13199,24165,2017,Petrol,Manual,Silver,5,1.0 L,77,4.5,Mpv,117
+Abarth 595 1.4L 70th T-Jet,2,13199,28109,2019,Petrol,Manual,Grey,3,1.4 L,1,3,Hatchback,151
+Vauxhall Crossland X 1.2L Elite Nav,2,13199,30685,2020,Petrol,Manual,Blue,5,1.2 L,0,N/A,Suv,106
+Honda Jazz 1.3L SE i-VTEC,2,13199,18933,2018,Petrol,Manual,Orange,5,1.3 L,218,4.5,Hatchback,116
+Nissan Qashqai 1.6L Tekna dCi,2,13199,50203,2015,Diesel,Automatic,White,5,1.6 L,100,4.5,Suv,128
+Seat Leon 2L FR Technology TDI,2,13199,48845,2017,Diesel,Manual,Purple,5,2.0 L,46,4.5,Hatchback,112
+Volkswagen Golf 1.6L Match Edition TDI,2,13249,70607,2020,Diesel,Manual,Silver,5,1.6 L,100,4.5,Hatchback,108
+Ford Fiesta 1L Titanium EcoBoost T,2,13299,34465,2019,Petrol,Manual,Grey,5,1.0 L,373,4,Hatchback,110
+Fiat 500X 1.6L Cross MultiJetII,2,13299,52664,2018,Diesel,Automatic,Brown,5,1.6 L,44,4.5,Suv,113
+Suzuki SX4 S-Cross 1.6L SZ-T,2,13299,42945,2016,Petrol,Automatic,Blue,5,1.6 L,0,N/A,Suv,125
+Seat Ibiza 1L FR TSI,2,13299,44274,2019,Petrol,Manual,Black,5,1.0 L,47,4,Hatchback,108
+Volkswagen Polo 1L SE,2,13299,16495,2018,Petrol,Manual,Silver,5,1.0 L,151,4,Hatchback,108
+Vauxhall Corsa 1.2L SE,2,13299,7852,2021,Petrol,Manual,Grey,5,1.2 L,268,4,Hatchback,118
+Smart forfour Prime Exclusive,2,13299,1446,2020,Electric,Automatic,Black,5,N/A,3,4,Hatchback,0
+Ford Fiesta 1.1L Zetec Ti-VCT,2,13349,24042,2019,Petrol,Manual,Grey,5,1.1 L,373,4,Hatchback,114
+Seat Arona 1L FR TSI,2,13349,40844,2019,Petrol,Manual,Blue,5,1.0 L,0,N/A,Suv,114
+Mercedes-Benz B Class 2.1L SE B200d,2,13349,36975,2017,Diesel,Manual,White,5,2.1 L,21,4,Mpv,109
+Smart fortwo Pulse Premium,2,13349,9072,2020,Electric,Automatic,Black,2,N/A,26,4.5,Coupe,0
+Skoda Octavia 1.4L SE L TSI,2,13349,24311,2016,Petrol,Automatic,Blue,5,1.4 L,171,4.5,Hatchback,115
+Nissan Qashqai 1.5L Acenta dCi,2,13399,32367,2017,Diesel,Manual,Red,5,1.5 L,100,4.5,Suv,99
+Mazda Mazda2 1.5L SE-L Nav+ SKYACTIV-G,2,13399,18766,2019,Petrol,Manual,Red,5,1.5 L,40,4,Hatchback,111
+Toyota Yaris 1.5L Icon VVT-h,2,13399,58084,2018,Hybrid,Automatic,Red,5,1.5 L,155,4.5,Hatchback,84
+Vauxhall Crossland X 1.2L Elite Nav,2,13399,16017,2019,Petrol,Manual,Black,5,1.2 L,0,N/A,Suv,106
+Vauxhall Corsa 1.2L SE,2,13399,10019,2021,Petrol,Manual,White,5,1.2 L,268,4,Hatchback,118
+Vauxhall Grandland X 1.2L SE Turbo,2,13399,32214,2019,Petrol,Manual,Grey,5,1.2 L,0,N/A,Suv,120
+Ford S-Max 2L Titanium TDCi,2,13399,96145,2017,Diesel,Manual,Black,5,2.0 L,25,4.5,Mpv,129
+Mini Hatch 1.5L Cooper,2,13449,30410,2016,Petrol,Manual,Green,5,1.5 L,0,N/A,Hatchback,109
+Volvo V40 Cross Country 2L D2,2,13449,64774,2016,Diesel,Automatic,Blue,5,2.0 L,46,4.5,Hatchback,101
+Smart forfour 1L Urbanshadow,2,13449,18516,2019,Petrol,Automatic,Grey,5,1.0 L,3,4,Hatchback,112
+Peugeot 308 1.2L Allure PureTech,2,13449,32593,2021,Petrol,Manual,Silver,5,1.2 L,51,4,Hatchback,126
+Mini Hatch 1.5L Cooper Classic,2,13449,36269,2019,Petrol,Manual,Silver,5,1.5 L,0,N/A,Hatchback,123
+Peugeot 2008 1.2L Active PureTech,2,13499,12496,2019,Petrol,Manual,Black,5,1.2 L,14,4.5,Suv,114
+Ford Focus 1L ST-Line EcoBoost T,2,13499,30293,2018,Petrol,Manual,White,5,1.0 L,620,4,Hatchback,112
+BMW 1 Series 1.5L M Sport 116d,2,13499,42566,2016,Diesel,Manual,Black,5,1.5 L,12,4.5,Hatchback,106
+Mini Hatch 1.5L Cooper Classic,2,13499,22114,2018,Petrol,Manual,Silver,3,1.5 L,0,N/A,Hatchback,124
+Vauxhall Mokka X 1.4L Elite i Turbo,2,13499,48901,2018,Petrol,Automatic,Blue,5,1.4 L,32,4.5,Suv,162
+Renault Zoe Dynamique Nav R110,2,13499,20497,2019,Electric,Automatic,White,5,N/A,0,N/A,Hatchback,0
+Citroen C3 Aircross 1.2L Flair PureTech,2,13549,10157,2018,Petrol,Manual,Blue,5,1.2 L,70,4,Suv,118
+Peugeot 308 1.6L GTi by Peugeot Sport THP,2,13549,58143,2016,Petrol,Manual,Black,5,1.6 L,51,4,Hatchback,139
+Mini Hatch 1.5L Cooper,2,13549,26020,2018,Petrol,Manual,Blue,5,1.5 L,0,N/A,Hatchback,109
+Ford Kuga 1.5L Titanium TDCi,2,13549,48285,2018,Diesel,Manual,Silver,5,1.5 L,31,4.5,Suv,115
+Ford Fiesta 1L Titanium EcoBoost T,2,13549,24335,2020,Petrol,Manual,Black,5,1.0 L,373,4,Hatchback,116
+Ford EcoSport 1L Zetec EcoBoost T,2,13549,10231,2019,Petrol,Manual,Black,5,1.0 L,3,4.5,Suv,119
+Nissan Juke 1.6L Tekna,2,13599,38471,2018,Petrol,Automatic,Silver,5,1.6 L,31,4,Suv,139
+Ford C-Max 2L Titanium TDCi,2,13599,28224,2018,Diesel,Automatic,Grey,5,2.0 L,77,4.5,Mpv,124
+Peugeot 208 1.2L Allure Premium PureTech,2,13599,40114,2020,Petrol,Manual,White,5,1.2 L,24,4.5,Hatchback,125
+BMW 3 Series 2L ED Plus 320d,2,13599,34169,2016,Diesel,Manual,Blue,4,2.0 L,126,4,Saloon,108
+DS DS 3 1.2L Connected Chic PureTech,2,13649,14706,2019,Petrol,Automatic,White,3,1.2 L,1,4.5,Hatchback,119
+Mini Hatch 1.5L Cooper,2,13649,16897,2018,Petrol,Manual,Green,3,1.5 L,0,N/A,Hatchback,117
+Toyota Yaris 1.5L Design VVT-h,2,13649,52329,2019,Hybrid,Automatic,Black,5,1.5 L,155,4.5,Hatchback,89
+Citroen C3 1.2L Flair PureTech,2,13699,10505,2020,Petrol,Manual,Blue,5,1.2 L,70,4,Hatchback,130
+Seat Arona 1L XCELLENCE TSI,2,13699,40463,2017,Petrol,Manual,Orange,5,1.0 L,0,N/A,Suv,113
+Nissan Qashqai 1.6L N-Connecta DIG-T,2,13699,40930,2016,Petrol,Manual,Red,5,1.6 L,100,4.5,Suv,138
+Volkswagen Polo 1L SE TSI,2,13699,52332,2018,Petrol,Manual,Black,5,1.0 L,151,4,Hatchback,101
+Vauxhall Mokka X 1.4L Active ecoTEC i Turbo,2,13699,28168,2019,Petrol,Manual,White,5,1.4 L,32,4.5,Suv,150
+Vauxhall Corsa 1.2L SE,2,13699,6843,2021,Petrol,Manual,Orange,5,1.2 L,268,4,Hatchback,118
+Ford Focus 1L Titanium X EcoBoost T,2,13699,28471,2017,Petrol,Automatic,Orange,5,1.0 L,620,4,Estate,125
+Vauxhall Mokka X 1.4L Elite Nav i Turbo,2,13699,52610,2018,Petrol,Automatic,Black,5,1.4 L,32,4.5,Suv,162
+Ford Focus 1L ST-Line EcoBoost T,2,13749,48342,2018,Petrol,Manual,Grey,5,1.0 L,620,4,Hatchback,112
+Seat Arona 1L SE Technology TSI,2,13749,26947,2019,Petrol,Manual,Blue,5,1.0 L,0,N/A,Suv,113
+Toyota Yaris 1.5L Design VVT-h,2,13749,26618,2016,Petrol,Automatic,Red,5,1.5 L,155,4.5,Hatchback,82
+Volvo V60 Cross Country 2L SE Nav D4,2,13749,86215,2017,Diesel,Manual,Black,5,2.0 L,8,3.5,Estate,111
+Citroen C4 Picasso 1.6L Flair BlueHDi,2,13749,34677,2017,Diesel,Automatic,Red,5,1.6 L,19,4.5,Mpv,103
+Nissan Juke 1.6L N-Connecta,2,13749,16050,2018,Petrol,Automatic,Red,5,1.6 L,31,4,Suv,139
+Vauxhall Mokka X 1.4L Design Nav i Turbo,2,13749,10337,2017,Petrol,Automatic,White,5,1.4 L,32,4.5,Suv,149
+Mini Hatch 1.5L Cooper,2,13749,18889,2018,Petrol,Manual,Silver,5,1.5 L,0,N/A,Hatchback,123
+Mazda Mazda2 1.5L SE-L Nav+ SKYACTIV-G,2,13749,24155,2019,Petrol,Automatic,Red,5,1.5 L,40,4,Hatchback,118
+Mini Convertible 2L Cooper S,2,13749,34212,2017,Petrol,Manual,Blue,2,2.0 L,4,3.5,Convertible,139
+Vauxhall Crossland X 1.2L Elite Nav,2,13799,14882,2019,Petrol,Manual,Grey,5,1.2 L,0,N/A,Suv,106
+Dacia Duster 1L Comfort TCe,2,13799,10058,2020,Petrol,Manual,Red,5,1.0 L,19,4,Suv,140
+Audi A4 1.4L SE TFSI,2,13799,30862,2016,Petrol,Manual,Red,4,1.4 L,100,4,Saloon,126
+Toyota AYGO 1L x-play VVT-i,2,13799,1085,2020,Petrol,Automatic,Grey,5,1.0 L,41,4,Hatchback,95
+Vauxhall Corsa 1.2L SE,2,13799,6822,2021,Petrol,Manual,Blue,5,1.2 L,268,4,Hatchback,118
+Vauxhall Corsa 1.2L SE,2,13849,7019,2021,Petrol,Manual,White,5,1.2 L,268,4,Hatchback,118
+Ford Fiesta 1L ST-Line EcoBoost T,2,13849,20758,2019,Petrol,Manual,Blue,5,1.0 L,373,4,Hatchback,108
+Mini Hatch 1.5L Cooper,2,13849,66049,2018,Petrol,Automatic,Red,3,1.5 L,0,N/A,Hatchback,112
+Kia Venga 1.6L 3,2,13849,18008,2019,Petrol,Automatic,White,5,1.6 L,31,4.5,Mpv,159
+Skoda Citigo SE iV,2,13849,22937,2020,Electric,Automatic,Red,5,N/A,15,4.5,Hatchback,0
+Seat Arona 1L SE TSI,2,13899,30238,2020,Petrol,Manual,Silver,5,1.0 L,0,N/A,Suv,112
+Ford Grand C-Max 1.5L Zetec TDCi,2,13899,30369,2019,Diesel,Manual,Blue,5,1.5 L,77,4.5,Mpv,131
+Audi A3 1.4L SE CoD TFSI,2,13899,26581,2016,Petrol,Automatic,Silver,3,1.4 L,76,4.5,Hatchback,104
+Nissan Juke 1.6L Tekna DIG-T,2,13899,26434,2017,Petrol,Automatic,White,5,1.6 L,31,4,Suv,153
+Ford EcoSport 1L Titanium EcoBoost T,2,13899,62212,2019,Petrol,Automatic,Red,5,1.0 L,3,4.5,Suv,140
+Vauxhall Corsa 1.2L SE Edition,2,13949,12605,2021,Petrol,Manual,White,5,1.2 L,268,4,Hatchback,118
+Vauxhall Corsa 1.2L SRi Turbo,2,13949,36844,2021,Petrol,Manual,White,5,1.2 L,268,4,Hatchback,119
+Ford EcoSport 1L Zetec EcoBoost T,2,13949,12461,2019,Petrol,Manual,Black,5,1.0 L,3,4.5,Suv,119
+Volkswagen Golf 1.6L Match Edition TDI,2,13949,64635,2020,Diesel,Manual,Red,5,1.6 L,100,4.5,Hatchback,128
+Vauxhall Corsa 1.2L SE Nav Premium,2,13949,4454,2021,Petrol,Manual,Blue,5,1.2 L,268,4,Hatchback,125
+MG MG3 1.5L Exclusive Nav VTi-TECH,2,13999,5002,2022,Petrol,Manual,Blue,5,1.5 L,6,3.5,Hatchback,147
+BMW 1 Series 1.5L SE Business 116d,2,13999,44450,2019,Diesel,Manual,Grey,5,1.5 L,12,4.5,Hatchback,111
+Vauxhall Astra 1.2L Business Edition Nav Turbo,2,13999,7035,2020,Petrol,Manual,White,5,1.2 L,368,4,Hatchback,120
+Vauxhall Zafira Tourer 1.4L SRi i Turbo,2,13999,22558,2017,Petrol,Manual,Red,5,1.4 L,160,4,Mpv,156
+Vauxhall Grandland X 1.5L Elite Nav BlueInjection Turbo D,2,13999,62359,2019,Diesel,Manual,Grey,5,1.5 L,0,N/A,Suv,111
+Ford Fiesta 1L ST-Line Edition EcoBoost T,2,13999,16750,2020,Petrol,Manual,White,4,1.0 L,373,4,Hatchback,118
+Peugeot 208 1.2L Allure PureTech,2,13999,18320,2020,Petrol,Manual,Grey,5,1.2 L,24,4.5,Hatchback,125
+Kia Rio 1.4L 2,2,14049,38714,2019,Petrol,Automatic,Black,5,1.4 L,44,4,Hatchback,143
+Ford Fiesta 1L ST-Line EcoBoost T,2,14049,18727,2020,Petrol,Manual,Blue,5,1.0 L,373,4,Hatchback,108
+Ford Fiesta 1L ST-Line EcoBoost T,2,14049,12295,2020,Petrol,Manual,Blue,5,1.0 L,373,4,Hatchback,109
+Toyota Yaris 1.5L Icon VVT-h,2,14049,26274,2017,Hybrid,Automatic,Black,5,1.5 L,155,4.5,Hatchback,75
+Hyundai i40 1.7L SE Nav Business Blue Drive CRDi,2,14099,38494,2017,Diesel,Manual,Silver,5,1.7 L,14,4.5,Estate,114
+Vauxhall Astra 1.4L SRi Nav i Turbo,2,14099,34373,2019,Petrol,Manual,White,5,1.4 L,368,4,Hatchback,123
+Mitsubishi ASX 2.3L 4 DI-D,2,14099,38594,2016,Diesel,Automatic,Black,5,2.3 L,8,4.5,Suv,152
+Nissan Micra 1L Tekna DIG-T,2,14099,4032,2019,Petrol,Manual,Red,5,1.0 L,114,4,Hatchback,114
+Toyota Yaris 1.5L Icon VVT-h,2,14099,26778,2018,Hybrid,Automatic,Black,5,1.5 L,155,4.5,Hatchback,84
+Nissan Juke 1.6L Tekna,2,14099,32842,2019,Petrol,Automatic,Black,5,1.6 L,31,4,Suv,152
+Toyota Yaris 1.5L Icon VVT-h,2,14149,34947,2018,Hybrid,Automatic,Gold,5,1.5 L,155,4.5,Hatchback,75
+Honda Civic 1L SR VTEC Turbo,2,14149,32682,2018,Petrol,Manual,Black,5,1.0 L,184,4.5,Hatchback,110
+Vauxhall Corsa 1.2L SRi Turbo,2,14149,18322,2021,Petrol,Manual,Blue,5,1.2 L,268,4,Hatchback,119
+Vauxhall Corsa 1.2L SRi Turbo,2,14149,16581,2021,Petrol,Manual,Red,5,1.2 L,268,4,Hatchback,119
+Abarth 595 1.4L Pista 70th T-Jet,2,14149,10106,2021,Petrol,Manual,Black,3,1.4 L,1,3,Hatchback,167
+BMW i3 ,2,14149,30746,2015,Electric,Automatic,Grey,4,N/A,0,N/A,Hatchback,0
+Vauxhall Corsa 1.2L SE Nav Premium,2,14199,16169,2021,Petrol,Manual,Blue,5,1.2 L,268,4,Hatchback,125
+Volkswagen Polo 1L SE TSI,2,14199,16296,2018,Petrol,Manual,Silver,5,1.0 L,151,4,Hatchback,101
+Ford Kuga 2L Titanium TDCi,2,14199,40366,2016,Diesel,Manual,Black,5,2.0 L,31,4.5,Suv,135
+Citroen Grand C4 Picasso 1.6L Flair BlueHDi,2,14199,50838,2018,Diesel,Manual,Red,5,1.6 L,25,4,Mpv,106
+Ford Fiesta 1L ST-Line EcoBoost T,2,14199,7006,2019,Petrol,Manual,Silver,3,1.0 L,373,4,Hatchback,112
+Ford EcoSport 1L ST-Line EcoBoost T,2,14199,22765,2018,Petrol,Manual,Black,5,1.0 L,3,4.5,Suv,119
+Vauxhall Corsa 1.4L SE Nav ecoTEC i,2,14249,9849,2019,Petrol,Automatic,Black,5,1.4 L,268,4,Hatchback,143
+Mini Hatch 1.5L Cooper Classic,2,14249,16078,2019,Petrol,Manual,Grey,3,1.5 L,0,N/A,Hatchback,122
+Peugeot 208 1.2L Allure Premium PureTech,2,14249,32967,2020,Petrol,Manual,White,5,1.2 L,24,4.5,Hatchback,125
+Audi A1 1.4L S line TFSI,2,14249,24535,2015,Petrol,Automatic,Black,3,1.4 L,33,4.5,Hatchback,113
+Vauxhall Corsa 1.2L SRi Turbo,2,14249,9641,2021,Petrol,Manual,White,5,1.2 L,268,4,Hatchback,119
+Ford Grand C-Max 1L Zetec EcoBoost T,2,14249,16255,2019,Petrol,Manual,Red,5,1.0 L,77,4.5,Mpv,134
+Toyota Yaris 1.5L Y20 Bi-tone VVT-i,2,14299,10515,2020,Petrol,Manual,Silver,5,1.5 L,155,4.5,Hatchback,141
+Ford Focus 1L Titanium X EcoBoost T,2,14299,20189,2018,Petrol,Manual,White,5,1.0 L,620,4,Hatchback,108
+Nissan Qashqai 1.5L Tekna dCi,2,14299,32344,2017,Diesel,Manual,Silver,5,1.5 L,100,4.5,Suv,103
+Ford Fiesta 1L ST-Line Edition EcoBoost MHEV T,2,14299,16325,2020,Petrol,Manual,Silver,5,1.0 L,373,4,Hatchback,117
+Nissan Leaf N-Connecta,2,14299,36186,2018,Electric,Automatic,White,5,N/A,7,4.5,Hatchback,0
+Seat Arona 1L XCELLENCE Lux TSI,2,14349,54699,2019,Petrol,Manual,Grey,5,1.0 L,0,N/A,Suv,114
+Vauxhall Corsa 1.2L SRi Turbo,2,14349,8042,2021,Petrol,Manual,Orange,5,1.2 L,268,4,Hatchback,119
+Ford Fiesta 1L ST-Line Edition EcoBoost T,2,14349,20013,2020,Petrol,Manual,White,5,1.0 L,373,4,Hatchback,118
+Mini Hatch 1.5L Cooper D,2,14349,10998,2017,Diesel,Automatic,Orange,3,1.5 L,0,N/A,Hatchback,98
+Volkswagen Polo 1L Match EVO,2,14399,40592,2021,Petrol,Manual,Silver,5,1.0 L,151,4,Hatchback,125
+Lexus IS 300 2.5L Executive Edition,2,14399,96119,2018,Plug_in_hybrid,Automatic,Red,4,2.5 L,28,4.5,Saloon,101
+Seat Arona 1L FR TSI,2,14399,22985,2019,Petrol,Manual,Black,5,1.0 L,0,N/A,Suv,114
+Vauxhall Corsa 1.2L SRi Premium Turbo,2,14399,14202,2020,Petrol,Manual,Red,5,1.2 L,268,4,Hatchback,126
+Nissan X-Trail 1.6L n-tec dCi,2,14399,44923,2016,Diesel,Automatic,White,5,1.6 L,42,4.5,Suv,139
+Mini Hatch 1.5L Cooper Classic,2,14399,10602,2019,Petrol,Manual,White,3,1.5 L,0,N/A,Hatchback,122
+Mercedes-Benz A Class 1.5L AMG Line A180d,2,14449,58263,2017,Diesel,Manual,Black,5,1.5 L,47,4,Hatchback,102
+Nissan Juke 1.6L Tekna,2,14449,12134,2019,Petrol,Manual,White,5,1.6 L,31,4,Suv,162
+BMW 1 Series 1.5L M Sport 118i,2,14449,38535,2017,Petrol,Manual,Grey,5,1.5 L,31,4,Hatchback,126
+Vauxhall Corsa 1.2L SRi Turbo,2,14449,10121,2021,Petrol,Manual,Blue,5,1.2 L,268,4,Hatchback,119
+Mini Hatch 1.5L Cooper,2,14449,32437,2016,Petrol,Automatic,Black,5,1.5 L,0,N/A,Hatchback,111
+Volkswagen Golf 1.6L GT Edition BlueMotion Tech TDI,2,14449,54767,2017,Diesel,Automatic,Black,5,1.6 L,100,4.5,Hatchback,104
+Jeep Cherokee 2.2L Limited MultiJetII,2,14499,62099,2015,Diesel,Automatic,Grey,5,2.2 L,9,4.5,Suv,150
+Nissan Qashqai 1.5L Tekna dCi,2,14499,36858,2016,Diesel,Manual,Black,5,1.5 L,100,4.5,Suv,103
+Mazda Mazda6 2.2L Sport Nav SKYACTIV-D,2,14499,62765,2017,Diesel,Automatic,Silver,5,2.2 L,75,4,Estate,129
+Vauxhall Corsa 1.2L SE Edition,2,14499,4243,2021,Petrol,Manual,Orange,5,1.2 L,268,4,Hatchback,118
+Mini Hatch 1.5L Cooper,2,14499,26322,2018,Petrol,Manual,Silver,5,1.5 L,0,N/A,Hatchback,116
+Mini Hatch 1.5L Cooper Classic,2,14499,16720,2020,Petrol,Manual,Black,3,1.5 L,0,N/A,Hatchback,131
+Ford Focus 1L ST-Line EcoBoost T,2,14499,62467,2020,Petrol,Manual,Blue,5,1.0 L,620,4,Hatchback,127
+Volkswagen Passat 2L GT TDI,2,14549,50880,2017,Diesel,Manual,Silver,4,2.0 L,154,4.5,Saloon,112
+Suzuki Vitara 1.6L SZ-T,2,14549,18714,2017,Petrol,Automatic,White,5,1.6 L,32,4,Suv,127
+Vauxhall Corsa 1.2L SRi Turbo,2,14549,10361,2021,Petrol,Manual,Grey,5,1.2 L,268,4,Hatchback,119
+Volkswagen Polo 1L SE Tech Edition TSI,2,14549,60931,2019,Petrol,Automatic,Black,5,1.0 L,151,4,Hatchback,106
+Mazda Mazda3 2L SE-L Nav SKYACTIV-G,2,14549,20975,2017,Petrol,Automatic,Red,5,2.0 L,53,4,Hatchback,129
+Ford Fiesta 1L Active X Edition EcoBoost MHEV T,2,14549,18124,2020,Petrol,Manual,Silver,5,1.0 L,373,4,Hatchback,124
+Audi A3 1.6L Sport TDI,2,14549,34898,2017,Diesel,Manual,White,5,1.6 L,76,4.5,Hatchback,107
+Kia Picanto 1L 2 DPi,2,14599,4270,2022,Petrol,Automatic,Yellow,5,1.0 L,61,4,Hatchback,118
+Vauxhall Corsa 1.2L SE,2,14649,5826,2021,Petrol,Manual,White,5,1.2 L,268,4,Hatchback,118
+Nissan Qashqai 1.5L N-Connecta dCi,2,14649,46282,2018,Diesel,Manual,Black,5,1.5 L,100,4.5,Suv,99
+Mini Hatch 1.5L Cooper,2,14649,50827,2018,Petrol,Automatic,Blue,3,1.5 L,0,N/A,Hatchback,112
+Volkswagen Golf 1.6L GT Edition BlueMotion Tech TDI,2,14649,28358,2016,Diesel,Automatic,Red,5,1.6 L,100,4.5,Hatchback,104
+Vauxhall Cascada 1.6L Elite i Turbo,2,14649,34923,2017,Petrol,Automatic,Blue,2,1.6 L,2,4.5,Convertible,172
+Mitsubishi Eclipse Cross 1.5L 4 T,2,14699,56869,2018,Petrol,Manual,White,5,1.5 L,0,N/A,Suv,151
+Volkswagen Polo 1L SE EVO,2,14699,26167,2019,Petrol,Manual,Black,5,1.0 L,151,4,Hatchback,108
+Vauxhall Grandland X 1.5L Elite Nav BlueInjection Turbo D,2,14699,48647,2018,Diesel,Manual,White,5,1.5 L,0,N/A,Suv,110
+Ford Fiesta 1L ST-Line Edition EcoBoost T,2,14699,16211,2020,Petrol,Manual,Black,5,1.0 L,373,4,Hatchback,118
+Smart fortwo Edition Nightsky,2,14699,14559,2019,Electric,Automatic,Black,2,N/A,26,4.5,Coupe,0
+Ford Fiesta 1L Active X Edition EcoBoost MHEV T,2,14699,20198,2020,Petrol,Manual,Black,5,1.0 L,373,4,Hatchback,123
+Mini Hatch 2L Cooper S,2,14699,34787,2018,Petrol,Manual,Blue,5,2.0 L,0,N/A,Hatchback,150
+Mazda MX-5 1.5L Arctic SKYACTIV-G,2,14699,14730,2017,Petrol,Manual,Blue,2,1.5 L,62,4,Convertible,139
+Hyundai IONIQ Premium,2,14749,28175,2018,Electric,Automatic,Black,5,N/A,0,N/A,Hatchback,0
+Vauxhall Corsa 1.2L SRi Turbo,2,14749,12781,2021,Petrol,Manual,Black,5,1.2 L,268,4,Hatchback,119
+Honda Civic 1.6L SE i-DTEC,2,14749,34939,2019,Diesel,Manual,Red,5,1.6 L,184,4.5,Hatchback,93
+Vauxhall Corsa 1.2L SRi Turbo,2,14749,10671,2021,Petrol,Manual,Blue,5,1.2 L,268,4,Hatchback,119
+Mercedes-Benz C Class 2.1L SE C220d,2,14749,54652,2016,Diesel,Automatic,Grey,4,2.1 L,144,4.5,Saloon,109
+Vauxhall Combo Life 1.2L Energy Turbo,2,14749,40692,2019,Petrol,Manual,Red,5,1.2 L,4,4,Mpv,124
+Peugeot 308 1.5L Allure Premium BlueHDi,2,14799,50303,2020,Diesel,Automatic,Grey,5,1.5 L,51,4,Hatchback,123
+Nissan Qashqai 1.2L N-Connecta DIG-T,2,14799,40521,2016,Petrol,Automatic,Red,5,1.2 L,100,4.5,Suv,129
+Ford Focus 1L Titanium EcoBoost T,2,14799,14927,2018,Petrol,Automatic,Silver,5,1.0 L,620,4,Hatchback,125
+Nissan Micra 1L N-Sport IG-T,2,14799,12436,2021,Petrol,Manual,White,5,1.0 L,114,4,Hatchback,129
+BMW 1 Series 1.5L Sport 118i,2,14799,30689,2018,Petrol,Automatic,White,3,1.5 L,31,4,Hatchback,119
+Toyota Yaris 1.5L Icon Tech VVT-h,2,14799,14763,2018,Hybrid,Automatic,Silver,5,1.5 L,155,4.5,Hatchback,84
+Kia Rio 1.4L 2,2,14799,9212,2019,Petrol,Automatic,Grey,5,1.4 L,44,4,Hatchback,143
+Mazda MX-5 1.5L SE+ SKYACTIV-G,2,14849,26721,2019,Petrol,Manual,White,2,1.5 L,62,4,Convertible,143
+Vauxhall Corsa 1.2L SRi Turbo,2,14849,16362,2021,Petrol,Manual,Grey,5,1.2 L,268,4,Hatchback,119
+Mini Hatch 1.5L Cooper,2,14849,18937,2016,Petrol,Automatic,White,3,1.5 L,0,N/A,Hatchback,109
+Vauxhall Insignia 1.5L SRi VX Line Nav i Turbo,2,14849,52670,2019,Petrol,Automatic,Black,5,1.5 L,96,4.5,Hatchback,135
+Vauxhall Grandland X 1.2L Sport Nav Turbo,2,14849,36587,2018,Petrol,Manual,Red,5,1.2 L,0,N/A,Suv,121
+Hyundai IONIQ Premium,2,14849,44823,2018,Electric,Automatic,Blue,5,N/A,0,N/A,Hatchback,0
+BMW i3 0.6L ,2,14849,44015,2017,Electric,Automatic,Multicolour,5,12 g/km,0,N/A,Hatchback,0
+Toyota Yaris 1.5L Icon Tech VVT-h,2,14849,16910,2018,Hybrid,Automatic,White,5,1.5 L,155,4.5,Hatchback,84
+Volkswagen Golf 2L Match Edition TDI,2,14899,74059,2020,Petrol,Automatic,Red,5,2.0 L,100,4.5,Hatchback,116
+Nissan Juke 1.6L Tekna,2,14899,16404,2018,Petrol,Automatic,Blue,5,1.6 L,31,4,Suv,152
+Nissan Leaf Acenta,2,14899,14661,2019,Electric,Automatic,Silver,5,N/A,7,4.5,Hatchback,0
+Ford Fiesta 1L Active X Edition EcoBoost MHEV T,2,14899,18193,2020,Petrol,Manual,Blue,5,1.0 L,373,4,Hatchback,123
+Vauxhall Insignia 2L SRi VX Line Nav BlueInjection Turbo D,2,14899,58208,2019,Diesel,Manual,Black,5,2.0 L,96,4.5,Estate,148
+Nissan Qashqai 1.2L Tekna DIG-T,2,14899,48959,2016,Petrol,Automatic,Blue,5,1.2 L,100,4.5,Suv,133
+Volkswagen Golf SV 1.5L SE TSI EVO,2,14949,16929,2018,Petrol,Manual,Red,5,1.5 L,157,4.5,Mpv,116
+Vauxhall Corsa 1.2L Elite Edition,2,14949,12307,2021,Petrol,Manual,Blue,5,1.2 L,268,4,Hatchback,119
+BMW 1 Series 2L Sport 118d,2,14949,42389,2017,Diesel,Automatic,White,5,2.0 L,31,4,Hatchback,105
+Nissan Qashqai 1.5L N-Connecta dCi,2,14949,30357,2018,Diesel,Manual,Silver,5,1.5 L,100,4.5,Suv,110
+Skoda Fabia 1L SE TSI,2,14949,18259,2021,Petrol,Automatic,Blue,5,1.0 L,153,4,Hatchback,130
+Vauxhall Mokka X 1.4L Active i Turbo,2,14949,26009,2019,Petrol,Automatic,Black,5,1.4 L,32,4.5,Suv,162
+Ford Fiesta 1L ST-Line Edition EcoBoost T,2,14999,10937,2021,Petrol,Manual,Silver,5,1.0 L,373,4,Hatchback,118
+Mini Clubman 1.5L Cooper,2,14999,34909,2016,Petrol,Automatic,Black,5,1.5 L,12,4.5,Estate,121
+Vauxhall Corsa 1.2L SRi Premium Turbo,2,14999,9229,2020,Petrol,Manual,Grey,5,1.2 L,268,4,Hatchback,126
+Vauxhall Corsa 1.2L SE,2,15049,2,2021,Petrol,Manual,Grey,5,1.2 L,268,4,Hatchback,118
+BMW 1 Series 2L M Sport 118d,2,15049,84138,2018,Diesel,Automatic,Gold,5,2.0 L,31,4,Hatchback,118
+Volkswagen Passat 1.5L R-Line TSI EVO,2,15099,86554,2019,Petrol,Automatic,Black,4,1.5 L,154,4.5,Saloon,122
+Mini Hatch 1.5L Cooper Classic,2,15099,26162,2020,Petrol,Manual,Silver,5,1.5 L,0,N/A,Hatchback,115
+Honda CR-V 1.6L SR i-DTEC,2,15099,64138,2017,Diesel,Automatic,Silver,5,1.6 L,152,4.5,Suv,139
+Mini Hatch 2L Cooper S,2,15099,24156,2018,Petrol,Manual,Grey,5,2.0 L,0,N/A,Hatchback,141
+Kia Rio 1L GT-Line T-GDi,2,15099,30391,2019,Petrol,Automatic,Black,5,1.0 L,44,4,Hatchback,124
+Nissan Qashqai 1.2L N-Connecta DIG-T,2,15099,22532,2017,Petrol,Manual,Blue,5,1.2 L,100,4.5,Suv,129
+Audi A1 1.4L S line CoD TFSI,2,15149,42808,2017,Petrol,Manual,Grey,5,1.4 L,33,4.5,Hatchback,112
+Vauxhall Corsa 1.2L SRi Turbo,2,15149,18779,2021,Petrol,Manual,Red,5,1.2 L,268,4,Hatchback,119
+Vauxhall Corsa 1.2L Elite Nav Premium Turbo,2,15149,24559,2021,Petrol,Manual,Black,5,1.2 L,268,4,Hatchback,120
+Vauxhall Corsa 1.2L Elite Edition,2,15149,5632,2021,Petrol,Manual,Blue,5,1.2 L,268,4,Hatchback,119
+Vauxhall Corsa 1.2L Elite Edition,2,15149,5806,2021,Petrol,Manual,White,5,1.2 L,268,4,Hatchback,119
+Volkswagen Golf 1.6L GT Edition TDI,2,15149,56286,2019,Diesel,Manual,Silver,5,1.6 L,100,4.5,Hatchback,111
+BMW 1 Series 1.5L M Sport 118i,2,15149,26800,2017,Petrol,Manual,Red,3,1.5 L,31,4,Hatchback,126
+Ssangyong Rexton 2.2L EX D,2,15149,32678,2017,Diesel,Automatic,Black,5,2.2 L,9,4.5,Suv,194
+Ford Fiesta 1L ST-Line Edition EcoBoost T,2,15149,8659,2021,Petrol,Manual,White,3,1.0 L,373,4,Hatchback,118
+Kia Optima 1.7L 3 CRDi,2,15149,48233,2018,Diesel,Automatic,Blue,5,1.7 L,2,4.5,Estate,120
+Ford Fiesta 1L ST-Line Edition EcoBoost MHEV T,2,15199,16697,2020,Petrol,Manual,Grey,5,1.0 L,373,4,Hatchback,117
+Seat Arona 1L SE Technology TSI,2,15199,28370,2019,Petrol,Automatic,White,5,1.0 L,0,N/A,Suv,114
+BMW 2 Series Active Tourer 1.5L Luxury 218i,2,15199,44516,2017,Petrol,Automatic,Silver,5,1.5 L,0,N/A,Mpv,119
+Vauxhall Corsa 1.2L SRi Turbo,2,15199,7282,2021,Petrol,Manual,Blue,5,1.2 L,268,4,Hatchback,119
+Audi A3 1.4L SE CoD TFSI,2,15199,20169,2016,Petrol,Manual,Silver,3,1.4 L,76,4.5,Hatchback,108
+Audi A1 1L S line TFSI,2,15199,20666,2018,Petrol,Manual,White,3,1.0 L,33,4.5,Hatchback,116
+Mini Hatch 1.5L Cooper Classic,2,15249,6448,2019,Petrol,Manual,Blue,3,1.5 L,0,N/A,Hatchback,122
+Vauxhall Corsa 1.2L SRi Turbo,2,15249,6293,2021,Petrol,Manual,Blue,5,1.2 L,268,4,Hatchback,119
+Kia Carens 1.7L 3 CRDi,2,15249,36811,2018,Diesel,Manual,Black,5,1.7 L,12,4.5,Mpv,118
+Ford Fiesta 1L ST-Line Edition EcoBoost T,2,15249,12110,2021,Petrol,Manual,White,5,1.0 L,373,4,Hatchback,124
+Nissan X-Trail 1.6L N-Vision dCi,2,15249,44979,2017,Diesel,Manual,Green,5,1.6 L,42,4.5,Suv,143
+Kia Ceed 1L 2 ECO T-GDi,2,15249,6053,2021,Petrol,Manual,White,5,1.0 L,63,4.5,Hatchback,119
+Mazda Mazda6 2.2L Sport Nav SKYACTIV-D,2,15299,28850,2017,Diesel,Manual,Grey,4,2.2 L,75,4,Saloon,107
+BMW 1 Series 1.5L M Sport 118i,2,15299,36034,2017,Petrol,Manual,Red,3,1.5 L,31,4,Hatchback,126
+Peugeot 208 1.2L Allure Premium PureTech,2,15299,18824,2020,Petrol,Manual,Silver,5,1.2 L,24,4.5,Hatchback,125
+Toyota Yaris 1.5L Design VVT-h,2,15299,12371,2018,Hybrid,Automatic,Blue,5,1.5 L,155,4.5,Hatchback,82
+Ford Fiesta 1L ST-Line Edition EcoBoost T,2,15299,10536,2021,Petrol,Manual,Silver,5,1.0 L,373,4,Hatchback,124
+Vauxhall Corsa 1.2L SRi Turbo,2,15349,16295,2021,Petrol,Manual,Red,5,1.2 L,268,4,Hatchback,119
+Mini Hatch 1.5L Cooper D,2,15349,20947,2017,Diesel,Automatic,Black,5,1.5 L,0,N/A,Hatchback,102
+Mercedes-Benz A Class 1.5L AMG Line A180d,2,15349,38265,2017,Diesel,Manual,White,5,1.5 L,47,4,Hatchback,102
+Ford Fiesta 1L Active X Edition EcoBoost MHEV T,2,15349,14729,2020,Petrol,Manual,White,5,1.0 L,373,4,Hatchback,123
+Skoda Fabia 1L SE Comfort TSI,2,15349,12164,2022,Petrol,Manual,Blue,5,1.0 L,153,4,Hatchback,115
+Fiat 124 Spider 1.4L Lusso MultiAir,2,15349,18471,2018,Petrol,Manual,Black,2,1.4 L,0,N/A,Convertible,148
+Citroen C3 1.2L Origins PureTech,2,15399,34511,2019,Petrol,Automatic,Grey,5,1.2 L,70,4,Hatchback,118
+BMW 2 Series 1.5L Sport 218i,2,15399,30044,2017,Petrol,Manual,Black,2,1.5 L,0,N/A,Coupe,125
+Mini Hatch 1.5L Cooper Classic,2,15399,18971,2019,Petrol,Manual,White,5,1.5 L,0,N/A,Hatchback,123
+Mercedes-Benz CLA Class 1.6L Sport CLA180,2,15399,40081,2018,Petrol,Manual,White,4,1.6 L,1,5,Saloon,128
+Ford Fiesta 1L ST-Line Edition EcoBoost MHEV T,2,15399,9418,2020,Petrol,Manual,Black,5,1.0 L,373,4,Hatchback,117
+Mini Hatch 1.5L Cooper Classic,2,15449,18085,2019,Petrol,Manual,Grey,5,1.5 L,0,N/A,Hatchback,123
+Audi A3 1L SE Technik TFSI,2,15449,40442,2018,Petrol,Manual,Black,5,1.0 L,76,4.5,Hatchback,104
+BMW 1 Series 1.5L Sport 118i,2,15449,26143,2018,Petrol,Manual,Black,5,1.5 L,31,4,Hatchback,123
+Mercedes-Benz C Class 2.1L Sport C220d,2,15449,88767,2018,Petrol,Automatic,Black,5,2.1 L,144,4.5,Saloon,109
+Mercedes-Benz C Class 2.1L AMG Line C220d,2,15449,62766,2015,Diesel,Manual,Grey,5,2.1 L,144,4.5,Estate,113
+Kia Ceed 1L 2 ECO T-GDi,2,15449,6471,2021,Petrol,Manual,White,5,1.0 L,63,4.5,Hatchback,119
+Seat Leon 1.5L FR TSI EVO,2,15499,16801,2019,Petrol,Manual,White,5,1.5 L,46,4.5,Hatchback,113
+Ford Fiesta 1L ST-Line Edition EcoBoost T,2,15499,10898,2021,Petrol,Manual,White,5,1.0 L,373,4,Hatchback,124
+Toyota Auris 1.8L Design VVT-h,2,15499,42095,2018,Hybrid,Automatic,Blue,5,1.8 L,63,4.5,Hatchback,94
+Mini Hatch 1.5L One Classic,2,15499,5852,2019,Petrol,Manual,Red,3,1.5 L,0,N/A,Hatchback,117
+Kia Rio 1.4L 3,2,15549,28501,2019,Petrol,Automatic,Grey,5,1.4 L,44,4,Hatchback,144
+Peugeot 208 1.2L Allure Premium PureTech,2,15549,30988,2020,Petrol,Manual,White,5,1.2 L,24,4.5,Hatchback,125
+Mazda MX-5 1.5L SE-L Nav+ SKYACTIV-G,2,15549,18719,2019,Petrol,Manual,White,2,1.5 L,62,4,Convertible,143
+Kia Ceed 1L 2 T-GDi,2,15549,12002,2021,Petrol,Manual,Grey,5,1.0 L,63,4.5,Hatchback,119
+Toyota Yaris 1.5L Icon VVT-h,2,15549,24666,2020,Hybrid,Automatic,Black,5,1.5 L,155,4.5,Hatchback,84
+Ford Fiesta 1L ST-Line Edition EcoBoost MHEV T,2,15549,22611,2021,Petrol,Manual,Blue,5,1.0 L,373,4,Hatchback,117
+Vauxhall Corsa 1.2L Elite Nav Premium Turbo,2,15549,16426,2021,Petrol,Manual,Black,5,1.2 L,268,4,Hatchback,120
+Volvo V60 2L R-Design Lux Nav D3,2,15549,52556,2017,Diesel,Automatic,Grey,5,2.0 L,8,3.5,Estate,111
+Kia Ceed 1L 2 T-GDi,2,15549,4492,2021,Petrol,Manual,White,5,1.0 L,63,4.5,Hatchback,119
+Ford Fiesta 1L Active X Edition EcoBoost MHEV T,2,15549,9280,2020,Petrol,Manual,Silver,5,1.0 L,373,4,Hatchback,123
+Ford Fiesta 1L ST-Line Edition EcoBoost T,2,15549,9631,2021,Petrol,Manual,Silver,5,1.0 L,373,4,Hatchback,118
+Volkswagen Polo 1.8L GTI TSI,2,15549,36166,2017,Petrol,Automatic,Red,5,1.8 L,151,4,Hatchback,129
+Hyundai IONIQ Premium,2,15549,30525,2019,Electric,Automatic,White,5,N/A,0,N/A,Hatchback,0
+Ford Fiesta 1L ST-Line Edition EcoBoost T,2,15549,14433,2021,Petrol,Manual,Black,5,1.0 L,373,4,Hatchback,118
+Kia Sportage 1.6L 2 GDi,2,15549,32477,2018,Petrol,Manual,Silver,5,1.6 L,45,4.5,Suv,162
+Peugeot 208 1.2L Allure Premium PureTech,2,15599,30034,2020,Petrol,Manual,Grey,5,1.2 L,24,4.5,Hatchback,125
+Seat Arona 1L SE Technology TSI,2,15599,20284,2019,Petrol,Automatic,Silver,5,1.0 L,0,N/A,Suv,112
+BMW 3 Series 2L M Sport 320i,2,15599,56551,2018,Petrol,Manual,Black,4,2.0 L,126,4,Saloon,138
+Toyota Yaris 1.5L Icon Tech VVT-h,2,15599,14801,2019,Petrol,Automatic,White,5,1.5 L,155,4.5,Hatchback,84
+Vauxhall Corsa 1.2L Elite Edition,2,15599,4875,2022,Petrol,Manual,White,5,1.2 L,268,4,Hatchback,120
+Vauxhall Corsa 1.2L Elite Edition,2,15599,4023,2022,Petrol,Manual,Blue,5,1.2 L,268,4,Hatchback,120
+Ford Fiesta 1L ST-Line Edition EcoBoost MHEV T,2,15599,6696,2020,Petrol,Manual,White,5,1.0 L,373,4,Hatchback,117
+Hyundai i10 1L N Line T-GDi,2,15599,5697,2021,Petrol,Manual,White,5,1.0 L,58,4,Hatchback,123
+Volkswagen Scirocco 2L R-Line BlueMotion Tech TDI,2,15649,48335,2016,Diesel,Manual,Black,3,2.0 L,9,4.5,Coupe,124
+Ford Focus 1L ST-Line EcoBoost T,2,15649,8648,2018,Petrol,Manual,Grey,5,1.0 L,620,4,Hatchback,112
+BMW 1 Series 1.5L SE 118i,2,15649,20764,2017,Petrol,Automatic,White,5,1.5 L,31,4,Hatchback,112
+Volkswagen Polo 1.8L GTI BlueMotion Tech TSI,2,15649,20968,2015,Petrol,Automatic,White,5,1.8 L,151,4,Hatchback,129
+Mini Hatch 2L Cooper S,2,15649,12668,2018,Petrol,Manual,Black,3,2.0 L,0,N/A,Hatchback,147
+Peugeot 308 1.5L Allure Premium BlueHDi,2,15699,18250,2021,Diesel,Manual,Black,5,1.5 L,51,4,Hatchback,121
+Renault Captur 1.5L Dynamique S Nav dCi ENERGY,2,15699,10298,2018,Diesel,Automatic,Red,5,1.5 L,9,4.5,Suv,101
+Vauxhall Corsa 1.2L SRi Turbo,2,15699,10042,2021,Petrol,Manual,Grey,5,1.2 L,268,4,Hatchback,119
+Volkswagen Polo 1L SE TSI,2,15699,30552,2018,Petrol,Automatic,White,5,1.0 L,151,4,Hatchback,105
+Ford Kuga 2L Zetec EcoBlue TDCi,2,15699,20924,2018,Diesel,Automatic,Red,5,2.0 L,31,4.5,Suv,164
+Peugeot 208 1.2L Allure Premium PureTech,2,15699,24734,2021,Petrol,Manual,Grey,5,1.2 L,24,4.5,Hatchback,119
+Nissan Micra 1L Tekna IG-T,2,15699,12371,2020,Petrol,Automatic,White,5,1.0 L,114,4,Hatchback,140
+Seat Arona 1L FR TSI,2,15699,12553,2018,Petrol,Automatic,Red,5,1.0 L,0,N/A,Suv,112
+Ford Fiesta 1L ST-Line Edition EcoBoost MHEV T,2,15699,14232,2021,Petrol,Manual,White,5,1.0 L,373,4,Hatchback,117
+Ford Fiesta 1L ST-Line Edition EcoBoost MHEV T,2,15699,20218,2021,Petrol,Manual,White,5,1.0 L,373,4,Hatchback,118
+Kia XCeed 1L 2 ECO T-GDi,2,15699,12989,2021,Petrol,Manual,Silver,5,1.0 L,63,4.5,Suv,135
+Mercedes-Benz E Class 2.1L AMG Line BlueTEC E220,2,15699,52409,2015,Diesel,Automatic,Grey,2,2.1 L,88,4.5,Convertible,131
+Mini Hatch 1.5L Cooper Classic,2,15749,14961,2019,Petrol,Manual,White,3,1.5 L,0,N/A,Hatchback,117
+Skoda Octavia 1.6L SE Drive SCR TDI,2,15749,26647,2019,Diesel,Manual,Black,5,1.6 L,171,4.5,Hatchback,109
+Mitsubishi Eclipse Cross 1.5L 3 T,2,15749,20714,2019,Petrol,Manual,Black,5,1.5 L,0,N/A,Suv,159
+Smart fortwo 0.9L BRABUS Xclusive T,2,15749,32447,2018,Petrol,Automatic,Grey,2,0.9 L,26,4.5,Coupe,102
+Vauxhall Corsa 1.2L Elite Edition,2,15749,2612,2022,Petrol,Manual,Blue,5,1.2 L,268,4,Hatchback,120
+BMW i3 0.6L ,2,15749,30801,2016,Plug_in_hybrid,Automatic,White,5,13 g/km,0,N/A,Hatchback,0
+Ford Fiesta 1L ST-Line Edition EcoBoost MHEV T,2,15749,8821,2021,Petrol,Manual,Silver,5,1.0 L,373,4,Hatchback,117
+Mercedes-Benz B Class 1.5L Sport B180d,2,15799,36758,2017,Diesel,Automatic,Blue,5,1.5 L,21,4,Mpv,107
+Peugeot 2008 1.2L Allure PureTech,2,15799,30800,2019,Petrol,Automatic,Black,5,1.2 L,14,4.5,Suv,129
+Vauxhall Mokka X 1.4L Elite i Turbo,2,15799,24641,2018,Petrol,Automatic,Blue,5,1.4 L,32,4.5,Suv,162
+Vauxhall Crossland 1.2L SRi Nav Turbo,2,15799,14074,2021,Petrol,Manual,Blue,5,1.2 L,0,N/A,Suv,132
+Vauxhall Corsa 1.2L Elite Edition,2,15799,5215,2022,Petrol,Manual,White,5,1.2 L,268,4,Hatchback,120
+Peugeot 3008 1.2L GT Line PureTech,2,15799,40379,2017,Petrol,Manual,Black,5,1.2 L,28,4.5,Suv,117
+Vauxhall Corsa 1.2L Elite Edition,2,15799,4085,2022,Petrol,Manual,Grey,5,1.2 L,268,4,Hatchback,120
+Vauxhall Corsa 1.2L Elite Edition,2,15799,4080,2022,Petrol,Manual,Red,5,1.2 L,268,4,Hatchback,120
+Vauxhall Corsa 1.2L Elite Edition,2,15799,1242,2022,Petrol,Manual,Blue,5,1.2 L,268,4,Hatchback,120
+Abarth 595 1.4L T-Jet,2,15849,5670,2021,Petrol,Manual,Blue,3,1.4 L,1,3,Hatchback,155
+Ford Focus 1L ST-Line X EcoBoost T,2,15849,22909,2018,Petrol,Manual,Silver,5,1.0 L,620,4,Hatchback,112
+Mitsubishi Outlander 2.3L GX4 DI-D,2,15849,50475,2016,Diesel,Automatic,White,5,2.3 L,9,4.5,Suv,154
+Ford Focus 1L ST-Line EcoBoost T,2,15849,24301,2019,Petrol,Manual,Blue,5,1.0 L,620,4,Hatchback,107
+Ford Fiesta 1L ST-Line Edition EcoBoost MHEV T,2,15849,10980,2021,Petrol,Manual,White,5,1.0 L,373,4,Hatchback,117
+BMW 1 Series 1.6L Sport 120i,2,15899,26467,2015,Petrol,Automatic,White,3,1.6 L,15,4,Hatchback,133
+Volvo V40 Cross Country 1.5L T3,2,15899,42880,2018,Petrol,Automatic,Silver,5,1.5 L,46,4.5,Hatchback,134
+Honda Civic 1L EX VTEC Turbo,2,15949,36959,2018,Petrol,Manual,Black,5,1.0 L,184,4.5,Hatchback,117
+Vauxhall Grandland X 1.5L Elite Nav BlueInjection Turbo D,2,15949,38854,2019,Diesel,Manual,Red,5,1.5 L,0,N/A,Suv,110
+Vauxhall Astra 1.2L SRi Turbo,2,15949,10152,2021,Petrol,Manual,Blue,5,1.2 L,368,4,Hatchback,121
+Seat Leon 1L SE Dynamic TSI EVO,2,15949,22282,2020,Petrol,Manual,Grey,5,1.0 L,46,4.5,Hatchback,126
+Volvo V40 2L R-Design Pro T2,2,15949,20581,2018,Petrol,Manual,White,5,2.0 L,46,4.5,Hatchback,142
+Vauxhall Corsa 1.2L Elite Edition,2,15949,2063,2022,Petrol,Manual,Blue,5,1.2 L,268,4,Hatchback,120
+Nissan Juke 1.6L Tekna,2,15949,12116,2019,Petrol,Automatic,White,5,1.6 L,31,4,Suv,152
+Hyundai BAYON 1L SE Connect MHEV T-GDi,2,15949,5885,2021,Petrol,Manual,White,5,1.0 L,0,N/A,Suv,120
+Mini Countryman 1.5L Cooper Classic,2,15949,28148,2019,Petrol,Manual,White,5,1.5 L,9,4.5,Suv,134
+Ford EcoSport 1L ST-Line EcoBoost T,2,15999,12346,2019,Petrol,Manual,Blue,5,1.0 L,3,4.5,Suv,120
+Volkswagen Polo 1L SE TSI,2,15999,20559,2019,Petrol,Manual,Silver,5,1.0 L,151,4,Hatchback,104
+MG MG ZS 1L Exclusive T-GDI,2,15999,10480,2019,Petrol,Automatic,Red,5,1.0 L,12,4,Suv,145
+Nissan Qashqai 1.5L N-Connecta dCi,2,15999,24295,2019,Diesel,Manual,Grey,5,1.5 L,100,4.5,Suv,110
+Ford Focus 1.5L Titanium EcoBlue,2,15999,18177,2020,Diesel,Manual,Red,5,1.5 L,620,4,Hatchback,93
+Hyundai TUCSON 1.6L S Connect GDi,2,15999,24323,2020,Petrol,Manual,Blue,5,1.6 L,11,4.5,Suv,157
+Volkswagen Golf 1.4L SE Nav BlueMotion Tech TSI,2,15999,40449,2017,Petrol,Automatic,Silver,5,1.4 L,157,4.5,Hatchback,119
+Ford Fiesta 1L ST-Line Edition EcoBoost MHEV T,2,15999,16976,2021,Hybrid,Manual,Blue,5,1.0 L,373,4,Hatchback,117
+BMW 2 Series 1.5L Sport 218i,2,16049,54142,2018,Petrol,Automatic,Blue,2,1.5 L,0,N/A,Coupe,124
+Ford Focus 1L Titanium X EcoBoost T,2,16049,7252,2017,Petrol,Manual,Silver,5,1.0 L,620,4,Estate,110
+Vauxhall Corsa 1.2L Elite Edition,2,16049,1203,2022,Petrol,Manual,Grey,5,1.2 L,268,4,Hatchback,120
+Seat Arona 1L FR Sport TSI,2,16049,14672,2019,Petrol,Manual,Grey,5,1.0 L,0,N/A,Suv,114
+BMW X1 1.5L SE 18i,2,16049,42122,2019,Petrol,Manual,Blue,5,1.5 L,6,4,Suv,132
+Ford Kuga 2L ST-Line EcoBlue TDCi,2,16049,48836,2019,Diesel,Manual,Blue,5,2.0 L,31,4.5,Suv,152
+Fiat 500 Electric Action,2,16049,10928,2022,Electric,Automatic,White,3,N/A,44,4.5,Hatchback,0
+Volvo V40 2L Inscription T3,2,16049,14373,2018,Petrol,Manual,Grey,5,2.0 L,46,4.5,Hatchback,139
+Volkswagen Golf 1.4L SE TSI,2,16099,36211,2018,Petrol,Manual,Blue,5,1.4 L,157,4.5,Hatchback,120
+BMW X1 2L Sport 18d,2,16099,64042,2016,Diesel,Automatic,Grey,5,2.0 L,6,4,Suv,114
+Vauxhall Corsa 1.2L Elite Edition,2,16099,5865,2022,Petrol,Manual,Blue,5,1.2 L,268,4,Hatchback,120
+Honda Civic 1L SE VTEC Turbo,2,16099,24044,2020,Petrol,Automatic,Grey,5,1.0 L,184,4.5,Hatchback,143
+Ford Fiesta 1L ST-Line Edition EcoBoost T,2,16099,14616,2020,Petrol,Manual,Blue,5,1.0 L,373,4,Hatchback,118
+Ford Fiesta 1L ST-Line Edition EcoBoost T,2,16099,8890,2021,Petrol,Manual,Silver,5,1.0 L,373,4,Hatchback,124
+Seat Ibiza 1L FR TSI,2,16149,38702,2019,Petrol,Automatic,Black,5,1.0 L,47,4,Hatchback,112
+Vauxhall Corsa 1.2L Elite Edition,2,16149,10852,2022,Petrol,Manual,Red,5,1.2 L,268,4,Hatchback,120
+Vauxhall Corsa 1.2L Elite Edition,2,16149,4615,2022,Petrol,Manual,Blue,5,1.2 L,268,4,Hatchback,120
+Toyota C-HR 1.2L Excel VVT-i,2,16149,34006,2018,Petrol,Manual,Silver,5,1.2 L,1,2.5,Suv,138
+BMW 2 Series Active Tourer 1.5L M Sport 225xe,2,16149,58737,2017,Hybrid,Automatic,Blue,4,1.5 L,0,N/A,Mpv,49
+Vauxhall Crossland 1.2L SRi Nav Turbo,2,16149,7248,2021,Petrol,Manual,White,5,1.2 L,0,N/A,Suv,132
+Mini Clubman 1.5L Cooper Classic,2,16149,30921,2018,Petrol,Automatic,Silver,5,1.5 L,12,4.5,Estate,130
+Mini Countryman 2L Cooper D,2,16149,36972,2018,Diesel,Manual,Black,5,2.0 L,9,4.5,Suv,124
+Mazda MX-5 1.5L Sport Nav+ SKYACTIV-G,2,16149,9654,2019,Petrol,Manual,Silver,2,1.5 L,62,4,Convertible,143
+Volkswagen Polo 1L beats TSI,2,16199,34524,2018,Petrol,Automatic,Black,5,1.0 L,151,4,Hatchback,108
+Nissan Qashqai 1.2L N-Connecta DIG-T,2,16199,24400,2018,Petrol,Manual,Blue,5,1.2 L,100,4.5,Suv,129
+MG MG ZS 1.5L Excite VTi-TECH,2,16199,4686,2022,Petrol,Manual,Black,5,1.5 L,12,4,Suv,149
+Hyundai BAYON SE Connect MHEV T-GDi,2,16199,1860,2021,Petrol,Manual,Silver,5,1.0 L,0,N/A,Suv,120
+Vauxhall Grandland X 1.2L Sport Nav Turbo,2,16249,32731,2019,Petrol,Manual,Silver,5,1.2 L,0,N/A,Suv,121
+Vauxhall Corsa 1.2L Elite Edition,2,16249,3809,2022,Petrol,Manual,White,5,1.2 L,268,4,Hatchback,120
+Ford Focus 1L ST-Line Edition EcoBoost MHEV T,2,16249,42716,2021,Petrol,Manual,Blue,5,1.0 L,620,4,Hatchback,117
+Jeep Compass 1.4L Limited MultiAirII T,2,16249,40274,2019,Petrol,Manual,White,5,1.4 L,2,4,Suv,155
+Kia Sportage 1.7L 3 CRDi,2,16249,26911,2017,Diesel,Manual,Red,5,1.7 L,45,4.5,Suv,119
+Ford Focus 1L Titanium EcoBoost T,2,16249,12680,2019,Petrol,Manual,Grey,5,1.0 L,620,4,Hatchback,107
+Seat Leon 1L SE Dynamic TSI,2,16249,8697,2020,Petrol,Manual,Grey,5,1.0 L,46,4.5,Hatchback,126
+Volkswagen Golf 1.5L SE Nav TSI EVO,2,16249,48339,2018,Petrol,Manual,Grey,5,1.5 L,157,4.5,Hatchback,113
+Kia Sportage 1.6L 1 GDi,2,16249,12936,2018,Petrol,Manual,Silver,5,1.6 L,45,4.5,Suv,158
+Skoda Karoq 1.6L SE TDI,2,16249,18839,2018,Diesel,Manual,Green,5,1.6 L,1,4,Suv,118
+Skoda Octavia 2L SE Technology TDI,2,16299,78087,2020,Diesel,Manual,Grey,5,2.0 L,171,4.5,Estate,118
+Vauxhall Crossland X 1.2L Elite Nav Turbo,2,16299,14192,2019,Petrol,Automatic,Blue,5,1.2 L,0,N/A,Suv,128
+Citroen C3 1.2L Shine Plus PureTech,2,16299,9091,2021,Petrol,Manual,White,5,1.2 L,70,4,Hatchback,124
+Vauxhall Corsa 1.2L SRi Turbo,2,16299,6245,2021,Petrol,Manual,Black,5,1.2 L,268,4,Hatchback,119
+Vauxhall Grandland X 1.2L SE Premium Turbo,2,16299,26158,2021,Petrol,Manual,Black,5,1.2 L,0,N/A,Suv,140
+Renault Zoe GT Line R135,2,16299,14310,2020,Electric,Automatic,Blue,5,N/A,0,N/A,Hatchback,0
+BMW X1 2L SE 18d,2,16299,44889,2017,Diesel,Automatic,Orange,5,2.0 L,6,4,Suv,114
+Vauxhall Corsa 1.2L Elite Nav Premium Turbo,2,16299,6870,2021,Petrol,Manual,Black,5,1.2 L,268,4,Hatchback,120
+Kia XCeed 1L 2 T-GDi,2,16299,8032,2021,Petrol,Manual,White,5,1.0 L,63,4.5,Suv,135
+Ford Fiesta 1L ST-Line Edition EcoBoost MHEV T,2,16349,7800,2021,Petrol,Manual,Grey,5,1.0 L,373,4,Hatchback,117
+Kia XCeed 1L 2 T-GDi,2,16349,8497,2021,Petrol,Manual,Silver,5,1.0 L,63,4.5,Suv,135
+Kia XCeed 1L 2 T-GDi,2,16349,10382,2021,Petrol,Manual,Red,5,1.0 L,63,4.5,Suv,135
+Ford Fiesta 1L ST-Line Edition EcoBoost MHEV T,2,16349,7406,2021,Petrol,Manual,White,5,1.0 L,373,4,Hatchback,116
+Vauxhall Corsa 1.2L Elite Edition,2,16349,16,2022,Petrol,Manual,White,5,1.2 L,268,4,Hatchback,120
+Seat Arona 1L SE Technology TSI,2,16349,4020,2019,Petrol,Automatic,White,5,1.0 L,0,N/A,Suv,114
+Mini Hatch 2L Cooper S,2,16349,26376,2018,Petrol,Automatic,Blue,3,2.0 L,0,N/A,Hatchback,129
+Kia XCeed 1L 2 T-GDi,2,16349,8453,2021,Petrol,Manual,Red,5,1.0 L,63,4.5,Suv,135
+Vauxhall Corsa 1.2L Elite Edition,2,16399,4297,2021,Petrol,Manual,Red,5,1.2 L,268,4,Hatchback,119
+Hyundai i40 1.6L SE Nav CRDi,2,16399,36579,2018,Diesel,Automatic,Silver,5,1.6 L,14,4.5,Estate,122
+MG MG ZS 1.5L Excite VTi-TECH,2,16399,2092,2022,Petrol,Manual,White,5,1.5 L,12,4,Suv,149
+Kia XCeed 1L 2 T-GDi,2,16399,8405,2021,Petrol,Manual,White,5,1.0 L,63,4.5,Suv,135
+Peugeot 208 1.2L Allure Premium PureTech,2,16449,22810,2021,Petrol,Manual,Black,5,1.2 L,24,4.5,Hatchback,119
+Renault Zoe GT Line R135,2,16449,28420,2020,Electric,Automatic,White,5,N/A,0,N/A,Hatchback,0
+Mini Hatch 1.5L Cooper,2,16449,24350,2017,Petrol,Automatic,Black,5,1.5 L,0,N/A,Hatchback,111
+Peugeot 308 1.5L Allure Premium BlueHDi,2,16449,9826,2021,Diesel,Manual,Grey,5,1.5 L,51,4,Hatchback,120
+Mini Hatch 1.5L Cooper D,2,16449,40328,2018,Diesel,Automatic,Silver,3,1.5 L,0,N/A,Hatchback,100
+Ford Fiesta 1L ST-Line Edition EcoBoost MHEV T,2,16449,7851,2021,Petrol,Manual,Grey,5,1.0 L,373,4,Hatchback,117
+BMW 2 Series 2L M Sport 220d,2,16449,40109,2017,Diesel,Automatic,Blue,2,2.0 L,0,N/A,Coupe,113
+Vauxhall Corsa 1.2L Elite Edition,2,16499,4844,2022,Petrol,Manual,Black,5,1.2 L,268,4,Hatchback,120
+Fiat 500X 1L Cross FireFly Turbo,2,16499,9638,2021,Petrol,Manual,Red,5,1.0 L,44,4.5,Suv,147
+Nissan X-Trail 2L N-Vision dCi,2,16499,44317,2017,Diesel,Automatic,Red,5,2.0 L,42,4.5,Suv,162
+Mercedes-Benz C Class 2L Sport C350e,2,16499,70733,2016,Plug_in_hybrid,Automatic,White,5,2.0 L,144,4.5,Estate,49
+Kia Ceed 1L 2 T-GDi,2,16549,9829,2021,Petrol,Manual,Grey,5,1.0 L,63,4.5,Hatchback,119
+Ford EcoSport 1L ST-Line EcoBoost T,2,16549,20623,2019,Petrol,Automatic,Blue,5,1.0 L,3,4.5,Suv,140
+Fiat 500X 1L Cross FireFly Turbo,2,16549,7607,2021,Petrol,Manual,Black,5,1.0 L,44,4.5,Suv,147
+Hyundai IONIQ 1.6L Premium SE h-GDi,2,16549,44988,2018,Hybrid,Automatic,White,5,1.6 L,0,N/A,Hatchback,92
+Toyota Yaris 1.5L Icon VVT-h,2,16599,10684,2019,Petrol,Automatic,Black,5,1.5 L,155,4.5,Hatchback,84
+Vauxhall Corsa 1.2L Elite Edition,2,16599,1822,2021,Petrol,Manual,Blue,5,1.2 L,268,4,Hatchback,119
+BMW 2 Series Active Tourer 2L M Sport 220d,2,16599,36093,2018,Diesel,Manual,White,4,2.0 L,0,N/A,Mpv,119
+Jeep Renegade 1.4L Limited MultiAirII T,2,16599,28996,2017,Petrol,Automatic,Grey,5,1.4 L,0,N/A,Suv,160
+Audi A1 1L Sport TFSI,2,16599,42703,2019,Petrol,Manual,Black,5,1.0 L,33,4.5,Hatchback,111
+Seat Ateca 1L SE L Ecomotive TSI,2,16599,24701,2018,Petrol,Manual,Grey,5,1.0 L,1,4.5,Suv,122
+Ford Galaxy 2L Zetec TDCi,2,16599,28529,2017,Diesel,Manual,Blue,5,2.0 L,43,4,Mpv,129
+Nissan Qashqai 1.3L N-Connecta DIG-T,2,16599,32503,2019,Petrol,Manual,Blue,5,1.3 L,100,4.5,Suv,130
+MG MG ZS Excite EV,2,16599,26412,2020,Electric,Automatic,Blue,5,N/A,12,4,Suv,0
+Peugeot 3008 1.6L Allure BlueHDi,2,16649,46020,2017,Diesel,Automatic,Gold,5,1.6 L,28,4.5,Suv,108
+Toyota RAV4 2.5L Business Edition Plus VVT-h,2,16649,52175,2016,Hybrid,Automatic,White,5,2.5 L,75,4.5,Suv,115
+Ford Focus 1L ST-Line Edition EcoBoost MHEV T,2,16699,32370,2020,Petrol,Manual,Black,5,1.0 L,620,4,Hatchback,119
+Ford Mondeo 2L Vignale TDCi,2,16699,26291,2016,Petrol,Manual,Grey,5,2.0 L,295,4.5,Saloon,171
+Volkswagen Golf 1.4L SE Nav TSI,2,16699,26079,2018,Petrol,Manual,Blue,5,1.4 L,157,4.5,Estate,123
+BMW X1 2L xLine 20d,2,16699,42141,2016,Diesel,Manual,Grey,5,2.0 L,6,4,Suv,127
+Vauxhall Combo Life 1.5L Energy BlueInjection Turbo D,2,16699,4214,2019,Diesel,Automatic,Blue,5,1.5 L,4,4,Mpv,114
+Audi A4 Avant 2L Sport ultra TDI,2,16699,52103,2017,Diesel,Automatic,Red,5,2.0 L,100,4,Estate,106
+Peugeot 3008 1.6L Allure BlueHDi,2,16699,38503,2017,Diesel,Automatic,Gold,5,1.6 L,28,4.5,Suv,108
+Mini Hatch 1.5L Cooper,2,16699,10500,2018,Petrol,Automatic,White,5,1.5 L,0,N/A,Hatchback,119
+Vauxhall Grandland X 1.2L Elite Nav Turbo,2,16699,42157,2018,Petrol,Manual,Gold,5,1.2 L,0,N/A,Suv,124
+Jaguar XF 2L R-Sport d,2,16699,34658,2016,Diesel,Automatic,Green,4,2.0 L,76,4.5,Saloon,114
+Volkswagen Polo 1L R-Line TSI,2,16749,26296,2019,Petrol,Manual,Orange,5,1.0 L,151,4,Hatchback,104
+Kia XCeed 1L 2 T-GDi,2,16749,6826,2021,Petrol,Manual,White,5,1.0 L,63,4.5,Suv,135
+Mercedes-Benz C Class 2L Sport C350e,2,16749,50753,2017,Plug_in_hybrid,Automatic,Black,4,2.0 L,144,4.5,Saloon,52
+Jaguar XF 2.2L R-Sport d,2,16749,18783,2015,Diesel,Automatic,Blue,4,2.2 L,76,4.5,Saloon,139
+BMW 1 Series 1.5L Sport 118i,2,16749,20143,2018,Petrol,Manual,White,5,1.5 L,31,4,Hatchback,123
+Mini Clubman 1.5L Cooper,2,16749,16356,2018,Petrol,Automatic,Red,5,1.5 L,12,4.5,Estate,130
+Ford Focus 1L ST-Line EcoBoost T,2,16799,42903,2019,Petrol,Automatic,Red,5,1.0 L,620,4,Hatchback,126
+Suzuki Vitara 1L SZ-T Boosterjet,2,16799,7020,2019,Petrol,Automatic,Black,5,1.0 L,32,4,Suv,129
+MG MG ZS 1.5L Excite VTi-TECH,2,16799,6213,2022,Petrol,Manual,Blue,5,1.5 L,12,4,Suv,149
+Ford Puma 1L Titanium EcoBoost MHEV T,2,16799,40164,2020,Petrol,Manual,White,5,1.0 L,9,4,Suv,127
+Hyundai IONIQ Premium,2,16799,18134,2019,Electric,Automatic,White,5,N/A,0,N/A,Hatchback,0
+BMW 3 Series 2L Sport 320i,2,16799,38891,2018,Petrol,Automatic,White,4,2.0 L,126,4,Saloon,129
+Hyundai IONIQ Premium,2,16799,18194,2019,Electric,Automatic,White,5,N/A,0,N/A,Hatchback,0
+Audi A1 1.4L Sport TFSI,2,16849,20238,2017,Petrol,Automatic,Blue,5,1.4 L,33,4.5,Hatchback,113
+Kia XCeed 1L 2 T-GDi,2,16849,9051,2021,Petrol,Manual,Black,5,1.0 L,63,4.5,Suv,135
+Skoda Superb 2L SE L Executive TDI,2,16849,54530,2016,Diesel,Manual,Grey,5,2.0 L,33,5,Estate,123
+Mini Hatch 2L Cooper S Exclusive,2,16849,22907,2019,Petrol,Manual,Black,3,2.0 L,0,N/A,Hatchback,147
+Land Rover Discovery Sport 2L Pure Edition TD4,2,16849,62390,2017,Diesel,Manual,Black,5,2.0 L,3,4.5,Suv,129
+Nissan Qashqai 1.3L N-Connecta DIG-T,2,16899,40365,2020,Petrol,Manual,Grey,5,1.3 L,100,4.5,Suv,130
+Volkswagen e-Golf e-Golf,2,16899,22802,2019,Electric,Automatic,Black,5,N/A,157,4.5,Hatchback,0
+Ford Focus 1L ST-Line EcoBoost T,2,16949,32721,2020,Petrol,Manual,Blue,5,1.0 L,620,4,Hatchback,96
+Vauxhall Corsa 1.2L Elite Edition,2,16949,6402,2022,Petrol,Manual,Blue,5,1.2 L,268,4,Hatchback,120
+Jaguar XE 2L Portfolio d,2,16949,20195,2016,Diesel,Automatic,Silver,4,2.0 L,2,4.5,Saloon,111
+Volkswagen Golf 2L R-Line Edition TDI,2,16949,46002,2020,Diesel,Manual,Blue,5,2.0 L,100,4.5,Hatchback,115
+Audi A3 1L SE Technik TFSI,2,16999,22699,2018,Petrol,Manual,White,5,1.0 L,76,4.5,Hatchback,104
+Volkswagen Golf 2L GTD BlueMotion Tech TDI,2,16999,34758,2017,Diesel,Manual,Red,3,2.0 L,100,4.5,Hatchback,114
+Ford Kuga 2L Titanium X Sport TDCi,2,17049,34794,2016,Diesel,Automatic,Red,5,2.0 L,31,4.5,Suv,134
+Audi A1 1L S line TFSI,2,17049,18282,2019,Petrol,Manual,White,5,1.0 L,33,4.5,Hatchback,105
+Peugeot 3008 1.2L Allure PureTech,2,17049,30414,2019,Petrol,Manual,Grey,5,1.2 L,28,4.5,Suv,120
+Vauxhall Grandland X 1.2L Sport Nav Turbo,2,17099,42018,2018,Petrol,Automatic,Grey,5,1.2 L,0,N/A,Suv,121
+BMW 2 Series 2L M Sport 220d,2,17099,38178,2017,Diesel,Automatic,White,2,2.0 L,0,N/A,Coupe,113
+Kia XCeed 1L 2 T-GDi,2,17099,6451,2021,Petrol,Manual,White,5,1.0 L,63,4.5,Suv,135
+Volkswagen Polo 1L SE TSI,2,17099,6638,2018,Petrol,Automatic,Orange,5,1.0 L,151,4,Hatchback,105
+Nissan Juke 1L N-Connecta DIG-T,2,17099,16763,2021,Petrol,Manual,Blue,5,1.0 L,31,4,Suv,134
+Land Rover Discovery Sport 2L Pure Edition TD4,2,17099,54856,2017,Diesel,Manual,White,5,2.0 L,3,4.5,Suv,129
+Vauxhall Corsa-e Elite Nav,2,17099,28807,2020,Electric,Automatic,Orange,5,N/A,268,4,Hatchback,0
+Vauxhall Corsa-e SE Nav Premium,2,17099,10202,2021,Electric,Automatic,Blue,5,N/A,268,4,Hatchback,0
+Ford Focus 1L Titanium Edition EcoBoost MHEV T,2,17099,10380,2021,Petrol,Manual,Grey,5,1.0 L,620,4,Hatchback,115
+Mercedes-Benz C Class 2L AMG Line C200,2,17099,64660,2016,Petrol,Automatic,Blue,4,2.0 L,144,4.5,Saloon,135
+Mazda Mazda6 2.2L GT Sport Nav+ SKYACTIV-D,2,17149,58178,2018,Diesel,Manual,Grey,5,2.2 L,75,4,Estate,126
+Vauxhall Corsa 1.2L Elite Edition,2,17149,3876,2022,Petrol,Manual,Grey,5,1.2 L,268,4,Hatchback,120
+Vauxhall Corsa 1.2L Elite Edition,2,17149,4028,2022,Petrol,Manual,Black,5,1.2 L,268,4,Hatchback,120
+Toyota Yaris 1.5L Icon VVT-i,2,17149,10923,2020,Petrol,Automatic,White,5,1.5 L,155,4.5,Hatchback,112
+Lexus CT 200h 1.8L Sport,2,17149,30006,2017,Hybrid,Automatic,Red,5,1.8 L,7,4.5,Hatchback,94
+Mercedes-Benz A Class 1.5L Sport A180d,2,17199,26494,2018,Diesel,Manual,Grey,5,1.5 L,47,4,Hatchback,102
+BMW i3 33kWh Auto (Range Extender),2,17199,40333,2017,Electric,Automatic,Silver,4,12 g/km,0,N/A,Hatchback,0
+Volkswagen Scirocco 2L GT Black Edition BlueMotion Tech TSI,2,17199,24579,2016,Petrol,Manual,Purple,3,2.0 L,9,4.5,Coupe,142
+Nissan Qashqai 1.6L Tekna DIG-T,2,17199,22468,2017,Petrol,Manual,Grey,5,1.6 L,100,4.5,Suv,138
+Mini Convertible 2L Cooper S Classic,2,17199,16548,2019,Petrol,Manual,Silver,2,2.0 L,4,3.5,Convertible,157
+Vauxhall Astra 1.2L Griffin Edition Turbo,2,17199,9686,2021,Petrol,Manual,Red,5,1.2 L,368,4,Hatchback,121
+Mini Hatch 1.5L Cooper,2,17199,9824,2018,Petrol,Automatic,Blue,3,1.5 L,0,N/A,Hatchback,119
+Vauxhall Corsa 1.2L SRi Edition Turbo,2,17199,3616,2022,Petrol,Manual,White,5,1.2 L,268,4,Hatchback,117
+Mini Countryman 1.5L Cooper SE,2,17199,66143,2017,Plug_in_hybrid,Automatic,Grey,5,1.5 L,9,4.5,Suv,52
+Honda Jazz 1.5L SE h i-MMD,2,17199,10604,2021,Hybrid,Automatic,Grey,5,1.5 L,218,4.5,Hatchback,102
+Kia Ceed 1L 2 T-GDi,2,17249,1287,2021,Petrol,Manual,White,5,1.0 L,63,4.5,Hatchback,119
+Vauxhall Crossland 1.2L SRi Nav Turbo,2,17249,12548,2021,Petrol,Manual,White,5,1.2 L,0,N/A,Suv,132
+Vauxhall Corsa 1.2L Elite Edition,2,17249,2803,2022,Petrol,Manual,Blue,5,1.2 L,268,4,Hatchback,120
+Mercedes-Benz E Class 2.1L AMG Night Edition BlueTEC E220,2,17249,26862,2016,Diesel,Automatic,Red,4,2.1 L,88,4.5,Saloon,121
+Volkswagen Golf 1.6L Match Edition TDI,2,17249,16389,2020,Diesel,Manual,White,5,1.6 L,100,4.5,Hatchback,128
+Ford Fiesta 1L ST-Line X Edition EcoBoost MHEV T,2,17249,7618,2020,Petrol,Manual,Grey,5,1.0 L,373,4,Hatchback,121
+Kia XCeed 1L 2 ECO T-GDi,2,17299,14478,2021,Petrol,Manual,Grey,5,1.0 L,63,4.5,Suv,135
+Vauxhall Corsa 1.2L Elite Nav Premium Turbo,2,17299,10901,2021,Petrol,Manual,Black,5,1.2 L,268,4,Hatchback,120
+Ford Focus 1L Titanium EcoBoost T,2,17299,12222,2020,Petrol,Manual,Blue,5,1.0 L,620,4,Hatchback,125
+Ford Focus 1L Titanium Edition EcoBoost MHEV T,2,17299,12972,2021,Petrol,Manual,Black,5,1.0 L,620,4,Hatchback,115
+BMW 2 Series Gran Tourer 2L M Sport 220d,2,17299,48337,2016,Diesel,Automatic,Black,5,2.0 L,0,N/A,Hatchback,134
+Ford Focus 1L Titanium Edition EcoBoost MHEV T,2,17299,8049,2021,Petrol,Manual,Silver,5,1.0 L,620,4,Hatchback,115
+BMW 1 Series 1.5L Sport 118i,2,17349,26678,2019,Petrol,Manual,Black,5,1.5 L,31,4,Hatchback,137
+BMW 1 Series 1.5L M Sport Shadow Edition 116d,2,17349,38613,2019,Diesel,Manual,Blue,5,1.5 L,12,4.5,Hatchback,114
+Honda CR-V 1.6L EX i-DTEC,2,17349,58725,2018,Diesel,Automatic,White,5,1.6 L,152,4.5,Suv,139
+Kia Ceed 1.6L 2 MHEV CRDi,2,17349,8045,2021,Diesel,Manual,Brown,5,1.6 L,63,4.5,Estate,119
+Vauxhall Combo Life 1.5L Energy BlueInjection Turbo D,2,17399,18055,2020,Diesel,Manual,Blue,5,1.5 L,4,4,Mpv,111
+Mini Countryman 2L Cooper SD,2,17399,34445,2016,Diesel,Automatic,Red,5,2.0 L,9,4.5,Suv,161
+Vauxhall Astra 1.2L Elite Nav Premium Turbo,2,17399,10291,2021,Petrol,Manual,Black,5,1.2 L,368,4,Hatchback,121
+Ford Fiesta 1L ST-Line Edition EcoBoost MHEV T,2,17449,10666,2021,Petrol,Manual,Blue,5,1.0 L,373,4,Hatchback,117
+Land Rover Range Rover Evoque 2L SE eD4,2,17449,50289,2016,Diesel,Manual,Red,5,2.0 L,28,3.5,Suv,113
+Volkswagen Golf 1.6L SE TDI,2,17449,20000,2018,Diesel,Automatic,Grey,5,1.6 L,100,4.5,Hatchback,109
+Vauxhall Corsa 1.2L Elite Turbo,2,17449,6227,2021,Petrol,Automatic,Orange,5,1.2 L,268,4,Hatchback,122
+Nissan Juke 1L N-Connecta DIG-T,2,17449,12248,2021,Petrol,Manual,Silver,5,1.0 L,31,4,Suv,134
+Mini Hatch 1.5L One Classic,2,17449,4636,2019,Petrol,Automatic,Blue,5,1.5 L,0,N/A,Hatchback,114
+Mitsubishi Eclipse Cross 1.5L 4 T,2,17449,34810,2019,Petrol,Automatic,Gold,5,1.5 L,0,N/A,Suv,175
+Kia Sportage 1.6L Edition 25 GDi,2,17449,40001,2018,Petrol,Manual,Grey,5,1.6 L,45,4.5,Suv,162
+Volkswagen Polo 1L Match TSI,2,17499,14188,2020,Petrol,Manual,White,5,1.0 L,151,4,Hatchback,127
+Kia Sportage 1.6L 2 MHEV CRDi,2,17499,36916,2020,Diesel,Manual,Red,5,1.6 L,45,4.5,Suv,141
+Hyundai IONIQ Premium,2,17499,20163,2019,Electric,Automatic,White,5,N/A,0,N/A,Hatchback,0
+BMW i3 ,2,17499,28701,2019,Electric,Automatic,Black,5,N/A,0,N/A,Hatchback,0
+Mercedes-Benz C Class 2L Sport C350e,2,17499,64150,2018,Plug_in_hybrid,Automatic,White,5,2.0 L,144,4.5,Estate,49
+Mazda MX-5 RF 2L Sport Nav SKYACTIV-G,2,17499,18639,2018,Petrol,Manual,White,2,2.0 L,62,4,Convertible,161
+Mazda MX-30 SE-L Lux,2,17499,6837,2021,Electric,Automatic,Grey,5,N/A,53,4,Suv,0
+Volkswagen e-Golf e-Golf,2,17499,18663,2020,Electric,Automatic,Blue,5,N/A,157,4.5,Hatchback,0
+Kia Niro 1.6L 3 GDi,2,17499,28024,2017,Petrol,Automatic,Blue,5,1.6 L,1,4.5,Suv,29
+Mercedes-Benz A Class 1.5L Sport A180d,2,17549,28050,2018,Diesel,Automatic,Silver,5,1.5 L,47,4,Hatchback,101
+Honda Jazz 1.5L SE h i-MMD,2,17549,10574,2021,Hybrid,Automatic,Grey,5,1.5 L,218,4.5,Hatchback,102
+Nissan Juke 1.6L Nismo RS DIG-T,2,17549,18846,2015,Petrol,Manual,Black,5,1.6 L,31,4,Suv,0
+Volkswagen Polo 1L SE TSI,2,17549,20678,2020,Petrol,Automatic,Grey,5,1.0 L,151,4,Hatchback,109
+Vauxhall Grandland X 1.6L Sport Nav BlueInjection Turbo D,2,17599,14322,2019,Diesel,Manual,Grey,5,1.6 L,0,N/A,Suv,104
+Toyota Aygo X 1L Pure VVT-i,2,17599,4080,2022,Petrol,Automatic,White,5,1.0 L,41,4,Hatchback,113
+Kia Stonic 1L 4 T-GDi,2,17599,28184,2019,Petrol,Automatic,White,5,1.0 L,1,4,Suv,120
+Audi A3 2L Sport TDI,2,17599,44108,2019,Diesel,Automatic,Black,5,2.0 L,76,4.5,Hatchback,117
+Ford Fiesta 1L Active EcoBoost T,2,17599,3000,2022,Petrol,Manual,Black,5,1.0 L,373,4,Hatchback,123
+Mazda MX-30 SE-L Lux,2,17599,12722,2021,Electric,Automatic,Black,5,N/A,53,4,Suv,0
+BMW i3 42.2kWh,2,17599,24123,2019,Electric,Automatic,White,5,N/A,0,N/A,Hatchback,0
+Toyota Yaris 1.5L Excel VVT-h,2,17649,14669,2019,Hybrid,Automatic,Red,5,1.5 L,155,4.5,Hatchback,91
+Citroen C5 Aircross 1.2L Flair Plus PureTech,2,17649,34042,2019,Petrol,Manual,Black,5,1.2 L,61,4.5,Suv,119
+Volkswagen e-Golf e-Golf,2,17649,26864,2019,Electric,Automatic,Grey,5,N/A,157,4.5,Hatchback,0
+Audi A3 2L S line TDI,2,17649,40703,2018,Diesel,Manual,Grey,5,2.0 L,76,4.5,Hatchback,112
+Skoda Karoq 1.5L SE Technology ACT TSI,2,17649,42391,2020,Petrol,Manual,Blue,5,1.5 L,1,4,Suv,118
+Seat Alhambra 2L SE TDI,2,17649,42935,2017,Diesel,Automatic,Red,5,2.0 L,13,4.5,Mpv,137
+Ford Focus 1L Titanium Edition EcoBoost MHEV T,2,17649,14032,2021,Petrol,Manual,Grey,5,1.0 L,620,4,Hatchback,115
+Land Rover Range Rover Evoque 2L SE Tech TD4,2,17649,64400,2015,Diesel,Automatic,Red,5,2.0 L,28,3.5,Suv,134
+Honda Jazz 1.5L SE h i-MMD,2,17649,2866,2021,Petrol,Automatic,Black,5,1.5 L,218,4.5,Hatchback,102
+Honda Jazz 1.3L EX Navi i-VTEC,2,17649,10562,2020,Petrol,Automatic,Silver,5,1.3 L,218,4.5,Hatchback,111
+Mini Hatch 2L Cooper S Sport,2,17649,14317,2019,Petrol,Manual,White,3,2.0 L,0,N/A,Hatchback,147
+Ford Fiesta 1L ST-Line Edition EcoBoost MHEV T,2,17649,8005,2021,Petrol,Manual,White,5,1.0 L,373,4,Hatchback,118
+Honda CR-V 2L EX i-VTEC,2,17699,50407,2017,Petrol,Manual,White,5,2.0 L,152,4.5,Suv,177
+Honda Jazz 1.5L SE h i-MMD,2,17699,2884,2021,Hybrid,Automatic,Black,5,1.5 L,218,4.5,Hatchback,102
+Volvo V40 Cross Country 1.5L Pro T3,2,17699,26220,2019,Petrol,Automatic,Red,5,1.5 L,46,4.5,Hatchback,138
+Hyundai IONIQ Premium,2,17699,10441,2020,Electric,Automatic,Black,5,N/A,0,N/A,Hatchback,0
+Vauxhall Grandland X 1.2L Elite Nav Turbo,2,17749,18384,2019,Petrol,Manual,Blue,5,1.2 L,0,N/A,Suv,114
+Peugeot 208 1.2L GT Line PureTech,2,17749,28420,2020,Petrol,Automatic,Yellow,5,1.2 L,24,4.5,Hatchback,128
+Peugeot 3008 1.2L Allure PureTech,2,17749,34909,2017,Petrol,Automatic,Grey,5,1.2 L,28,4.5,Suv,120
+Ford Focus 1L Titanium Edition EcoBoost MHEV T,2,17749,6608,2021,Petrol,Manual,Black,5,1.0 L,620,4,Hatchback,115
+Mini Hatch 2L Cooper S,2,17799,20665,2018,Petrol,Manual,Silver,3,2.0 L,0,N/A,Hatchback,136
+Vauxhall Combo Life 1.5L Energy BlueInjection Turbo D,2,17799,12814,2019,Diesel,Manual,Black,5,1.5 L,4,4,Mpv,111
+Audi Q2 1.4L S line CoD TFSI,2,17799,50431,2017,Petrol,Manual,White,5,1.4 L,1,4.5,Suv,128
+Jaguar XE 2L Prestige GTDi,2,17799,6899,2016,Petrol,Automatic,White,4,2.0 L,2,4.5,Saloon,179
+Kia XCeed 1L 2 T-GDi,2,17849,8638,2021,Petrol,Manual,White,5,1.0 L,63,4.5,Suv,135
+Kia XCeed 1L 2 ECO T-GDi,2,17849,8643,2021,Petrol,Manual,Grey,5,1.0 L,63,4.5,Suv,135
+Mercedes-Benz A Class 1.6L Sport A180,2,17849,24620,2017,Petrol,Automatic,Grey,5,1.6 L,47,4,Hatchback,126
+Vauxhall Corsa 1.2L Elite Turbo,2,17849,2471,2021,Petrol,Automatic,Grey,5,1.2 L,268,4,Hatchback,122
+BMW 1 Series 2L M Sport 120i,2,17849,30614,2018,Petrol,Automatic,Black,3,2.0 L,15,4,Hatchback,135
+Mini Hatch 1.5L Cooper D,2,17849,22268,2018,Diesel,Automatic,Orange,3,1.5 L,0,N/A,Hatchback,100
+Nissan Qashqai 1.3L N-Connecta DIG-T,2,17849,44095,2020,Petrol,Automatic,Black,5,1.3 L,100,4.5,Suv,131
+Volkswagen T-Roc 1L Design TSI,2,17849,32143,2019,Petrol,Manual,Silver,5,1.0 L,1,5,Suv,118
+Honda Jazz 1.5L SE h i-MMD,2,17849,4486,2021,Petrol,Automatic,Grey,5,1.5 L,218,4.5,Hatchback,102
+Mercedes-Benz A Class 2.1L AMG Line A200d,2,17849,36000,2018,Diesel,Automatic,White,5,2.1 L,47,4,Hatchback,103
+Kia XCeed 1L Connect T-GDi,2,17849,12921,2021,Petrol,Manual,Orange,5,1.0 L,63,4.5,Suv,136
+Nissan Qashqai 1.3L N-Connecta DIG-T,2,17849,14274,2019,Petrol,Manual,Red,5,1.3 L,100,4.5,Suv,130
+Ford Fiesta 1L ST-Line Edition EcoBoost MHEV T,2,17849,16634,2021,Petrol,Manual,Grey,5,1.0 L,373,4,Hatchback,117
+Volkswagen e-Golf 1.4L e-Golf,2,17899,18152,2019,Electric,Automatic,Black,5,N/A,157,4.5,Hatchback,0
+Nissan X-Trail 2L N-Vision dCi,2,17949,46186,2017,Diesel,Automatic,Green,5,2.0 L,42,4.5,Suv,162
+Audi A1 1.5L Sport TFSI,2,17949,26074,2019,Petrol,Automatic,Black,5,1.5 L,33,4.5,Hatchback,115
+Ford Focus 1.5L Zetec EcoBlue,2,17949,5080,2021,Diesel,Manual,Red,5,1.5 L,620,4,Estate,112
+Kia Sportage 1.6L 4 CRDi,2,17949,48309,2018,Diesel,Manual,Grey,5,1.6 L,45,4.5,Suv,129
+Seat Arona 1L XCELLENCE Lux TSI,2,17949,16323,2020,Petrol,Automatic,Grey,5,1.0 L,0,N/A,Suv,114
+MG MG ZS Excite EV,2,17949,3050,2020,Electric,Automatic,Blue,5,N/A,12,4,Suv,0
+Hyundai TUCSON 1.6L SE Nav GDi,2,17999,26641,2019,Petrol,Manual,Brown,5,1.6 L,11,4.5,Suv,162
+Volkswagen Polo 1L Match TSI,2,17999,8454,2020,Petrol,Manual,White,5,1.0 L,151,4,Hatchback,127
+Vauxhall Corsa 1.2L Elite Nav Premium Turbo,2,17999,8246,2020,Petrol,Automatic,Grey,5,1.2 L,268,4,Hatchback,99
+Ford Kuga 1.5L ST-Line EcoBoost T,2,17999,32510,2019,Petrol,Manual,Black,5,1.5 L,31,4.5,Suv,164
+Ford Focus 1L ST-Line X EcoBoost T,2,17999,16680,2019,Petrol,Manual,Black,5,1.0 L,620,4,Hatchback,114
+BMW 2 Series Active Tourer 1.5L SE 218i,2,18049,22013,2019,Petrol,Automatic,Black,5,1.5 L,0,N/A,Mpv,117
+Mini Hatch 1.5L Cooper Classic,2,18049,30930,2021,Petrol,Manual,Red,5,1.5 L,0,N/A,Hatchback,126
+Vauxhall Corsa 1.2L Elite Nav Turbo,2,18049,9656,2021,Petrol,Automatic,White,5,1.2 L,268,4,Hatchback,122
+Ford Kuga 1.5L Vignale EcoBoost T,2,18049,44034,2019,Petrol,Automatic,Gold,5,1.5 L,31,4.5,Suv,208
+Hyundai TUCSON 1.6L SE Nav GDi,2,18099,34769,2019,Petrol,Manual,Grey,5,1.6 L,11,4.5,Suv,156
+Hyundai TUCSON 1.6L SE Nav GDi,2,18099,34463,2019,Petrol,Manual,Black,5,1.6 L,11,4.5,Suv,156
+Jaguar XE 2L Prestige d,2,18099,30467,2019,Diesel,Automatic,Black,4,2.0 L,2,4.5,Saloon,141
+Kia Stonic 1L 3 T-GDi,2,18099,3450,2020,Petrol,Automatic,Grey,5,1.0 L,1,4,Suv,138
+Nissan Qashqai 1.2L N-Connecta DIG-T,2,18099,10721,2019,Petrol,Manual,Blue,5,1.2 L,100,4.5,Suv,129
+Jeep Cherokee 2.2L Limited MultiJetII,2,18099,24835,2017,Diesel,Automatic,Black,5,2.2 L,9,4.5,Suv,150
+Volvo V40 1.5L Inscription T3,2,18099,18213,2018,Petrol,Automatic,Grey,5,1.5 L,46,4.5,Hatchback,132
+DS DS 7 CROSSBACK 1.5L Prestige BlueHDi,2,18149,74693,2019,Diesel,Manual,Gold,5,1.5 L,0,N/A,Suv,107
+Volkswagen Passat 2L SE Business TDI,2,18149,44060,2019,Diesel,Automatic,Silver,5,2.0 L,154,4.5,Estate,113
+Volkswagen CC 2L R-Line Black Edition BlueMotion Tech TDI,2,18199,38466,2017,Diesel,Manual,White,4,2.0 L,15,4.5,Saloon,127
+Audi A5 2L S line TFSI,2,18199,58811,2016,Petrol,Manual,Black,5,2.0 L,21,4.5,Hatchback,159
+Vauxhall Grandland X 1.2L SRi Nav Turbo,2,18199,8228,2020,Petrol,Manual,Grey,5,1.2 L,0,N/A,Suv,146
+Land Rover Discovery Sport 2L SE Tech TD4,2,18199,64543,2016,Diesel,Manual,Grey,5,2.0 L,3,4.5,Suv,139
+Ford Focus 1L ST-Line X EcoBoost T,2,18199,10736,2019,Petrol,Manual,Red,5,1.0 L,620,4,Hatchback,114
+Kia Sportage 1.6L GT-Line CRDi,2,18199,18955,2018,Diesel,Manual,Blue,5,1.6 L,45,4.5,Suv,130
+Volkswagen Polo 1L Match TSI,2,18249,14707,2021,Petrol,Manual,Black,5,1.0 L,151,4,Hatchback,120
+BMW 5 Series 2L SE 520d,2,18249,92012,2019,Diesel,Automatic,Grey,4,2.0 L,40,4.5,Saloon,117
+Audi A1 1L S line TFSI,2,18249,40269,2020,Petrol,Manual,Red,5,1.0 L,33,4.5,Hatchback,132
+Toyota C-HR 1.2L Excel VVT-i,2,18249,18551,2018,Petrol,Automatic,Silver,5,1.2 L,1,2.5,Suv,135
+Volkswagen T-Roc 1L SE TSI,2,18249,30585,2020,Petrol,Manual,Blue,5,1.0 L,1,5,Suv,118
+Toyota C-HR 1.8L Dynamic VVT-h,2,18249,52249,2019,Hybrid,Automatic,Blue,5,1.8 L,1,2.5,Suv,86
+Nissan Qashqai 1.5L Tekna+ dCi,2,18299,36830,2019,Diesel,Manual,Grey,5,1.5 L,100,4.5,Suv,110
+Honda Jazz 1.5L SE h i-MMD,2,18299,8801,2021,Hybrid,Automatic,Grey,5,1.5 L,218,4.5,Hatchback,102
+Volkswagen e-Golf e-Golf,2,18299,36485,2020,Electric,Automatic,Grey,5,N/A,157,4.5,Hatchback,0
+Land Rover Discovery Sport 2L HSE TD4,2,18299,54951,2017,Diesel,Manual,Red,5,2.0 L,3,4.5,Suv,129
+BMW 1 Series 1.5L M Sport Shadow Edition 118i,2,18349,46009,2019,Petrol,Manual,White,5,1.5 L,31,4,Hatchback,137
+Volkswagen Passat 2L SE Business TDI,2,18349,52713,2018,Diesel,Automatic,Silver,5,2.0 L,154,4.5,Estate,113
+Volkswagen e-Golf e-Golf,2,18349,12652,2020,Electric,Automatic,Blue,5,N/A,157,4.5,Hatchback,0
+Ford EcoSport 1L ST-Line EcoBoost T,2,18349,24514,2019,Petrol,Automatic,Blue,5,1.0 L,3,4.5,Suv,140
